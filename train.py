@@ -13,6 +13,7 @@ from seq2seq.data.dictionary import Dictionary
 from seq2seq.data.dataset import Seq2SeqDataset, BatchSampler
 from seq2seq.models import ARCH_MODEL_REGISTRY, ARCH_CONFIG_REGISTRY
 
+
 def get_args():
     """ Defines training-specific hyper-parameters. """
     parser = argparse.ArgumentParser('Sequence to Sequence Model')
@@ -25,7 +26,7 @@ def get_args():
     parser.add_argument('--max-tokens', default=None, type=int, help='maximum number of tokens in a batch')
     parser.add_argument('--batch-size', default=1, type=int, help='maximum number of sentences in a batch')
     parser.add_argument('--train-on-tiny', action='store_true', help='train model on a tiny dataset')
-
+    parser.add_argument('--data-prefix', default="", help='Switch to activate bpe mode')
     # Add model arguments
     parser.add_argument('--arch', default='lstm', choices=ARCH_MODEL_REGISTRY.keys(), help='model architecture')
 
@@ -61,11 +62,10 @@ def main(args):
     torch.manual_seed(42)
 
     utils.init_logging(args)
-
     # Load dictionaries
-    src_dict = Dictionary.load(os.path.join(args.data, 'dict.{:s}'.format(args.source_lang)))
+    src_dict = Dictionary.load(os.path.join(args.data, '{:s}dict.{:s}'.format(args.data_prefix, args.source_lang)))
     logging.info('Loaded a source dictionary ({:s}) with {:d} words'.format(args.source_lang, len(src_dict)))
-    tgt_dict = Dictionary.load(os.path.join(args.data, 'dict.{:s}'.format(args.target_lang)))
+    tgt_dict = Dictionary.load(os.path.join(args.data, '{:s}dict.{:s}'.format(args.data_prefix, args.target_lang)))
     logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.target_lang, len(tgt_dict)))
 
     # Load datasets
@@ -75,8 +75,8 @@ def main(args):
             tgt_file=os.path.join(args.data, '{:s}.{:s}'.format(split, args.target_lang)),
             src_dict=src_dict, tgt_dict=tgt_dict)
 
-    train_dataset = load_data(split='train') if not args.train_on_tiny else load_data(split='tiny_train')
-    valid_dataset = load_data(split='valid')
+    train_dataset = load_data(split='{:s}train'.format(args.data_prefix)) if not args.train_on_tiny else load_data(split='{:s}tiny_train'.format(args.data_prefix))
+    valid_dataset = load_data(split='{:s}valid'.format(args.data_prefix))
 
     # Build model and optimization criterion
     model = models.build_model(args, src_dict, tgt_dict)

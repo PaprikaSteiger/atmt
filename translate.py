@@ -25,6 +25,7 @@ def get_args():
     parser.add_argument('--batch-size', default=1, type=int, help='maximum number of sentences in a batch')
     parser.add_argument('--output', required=True, type=str, help='path to the output file destination')
     parser.add_argument('--max-len', default=128, type=int, help='maximum length of generated sequence')
+    parser.add_argument('--data-prefix', default="", help='Switch to activate bpe mode')
 
     return parser.parse_args()
 
@@ -39,15 +40,15 @@ def main(args):
     utils.init_logging(args)
 
     # Load dictionaries
-    src_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.source_lang)))
+    src_dict = Dictionary.load(os.path.join(args.data, '{:s}dict.{:s}'.format(args.data_prefix, args.source_lang)))
     logging.info('Loaded a source dictionary ({:s}) with {:d} words'.format(args.source_lang, len(src_dict)))
-    tgt_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.target_lang)))
+    tgt_dict = Dictionary.load(os.path.join(args.data, '{:s}dict.{:s}'.format(args.data_prefix, args.target_lang)))
     logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.target_lang, len(tgt_dict)))
 
     # Load dataset
     test_dataset = Seq2SeqDataset(
-        src_file=os.path.join(args.data, 'test.{:s}'.format(args.source_lang)),
-        tgt_file=os.path.join(args.data, 'test.{:s}'.format(args.target_lang)),
+        src_file=os.path.join(args.data, '{:s}test.{:s}'.format(args.data_prefix, args.source_lang)),
+        tgt_file=os.path.join(args.data, '{:s}test.{:s}'.format(args.data_prefix, args.target_lang)),
         src_dict=src_dict, tgt_dict=tgt_dict)
     test_loader = torch.utils.data.DataLoader(test_dataset, num_workers=1, collate_fn=test_dataset.collater,
                                               batch_sampler=BatchSampler(test_dataset, 9999999,
@@ -80,6 +81,7 @@ def main(args):
                 # Compute the decoder output by repeatedly feeding it the decoded sentence prefix
                 decoder_out, _ = model.decoder(prev_words, encoder_out)
             # Suppress <UNK>s
+            # Returns the k largest elements of the given input tensor along a given dimension
             _, next_candidates = torch.topk(decoder_out, 2, dim=-1)
             best_candidates = next_candidates[:, :, 0]
             backoff_candidates = next_candidates[:, :, 1]
