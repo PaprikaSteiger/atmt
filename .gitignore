@@ -16,3 +16,8 @@ seq2seq/div_beam.py
 translate_beam.py
 translate_mbr.py
 translate_div_beam.py
+
+# virtual environment
+venv/
+# pycharm indexing
+.idea

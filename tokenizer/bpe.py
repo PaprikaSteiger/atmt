@@ -107,7 +107,7 @@ if __name__ == "__main__":
     #         )
 
     decode_file(
-        infile=Path(__file__).parent.parent / "bpe_continued" /"output.txt",
-        outfile=Path(__file__).parent.parent / "bpe_continued" /"decoded_output.txt",
+        infile=Path(__file__).parent.parent / "deep_bpe_continued" /"output.txt",
+        outfile=Path(__file__).parent.parent / "deep_bpe_continued" /"decoded_output.txt",
     )
 
