@@ -225,24 +225,6 @@ class LSTMDecoder(Seq2SeqDecoder):
         if self.use_lexical_model:
             # __LEXICAL: Add parts of decoder architecture corresponding to the LEXICAL MODEL here
             pass
-            # a = AttentionLayer(LSTMEncoder.embed_dim, LSTMEncoder.embed_dim)
-            # fl = nn.Linear(bias=False) +
-            # self.lexical_model = [
-            #     AttentionLayer(self.embed_dim, self.embed_dim),
-            #     nn.Linear(self.embed_dim, self.embed_dim, bias=False),
-            #     nn.Linear(self.hidden_size, self.hidden_size)
-            # ]
-            #
-            # F.softmax(hl+hhl)
-            # decoder
-            # output = nn.Linear()
-            # torch.cat()
-            # fl = nn.Linear(bias=False)(fl)
-            # htt = F.tanh(fl) + fl
-            # htt = nn.Linear()(htt)
-            # ht = nn.LayerNorm()(decoder_output)
-            # ht = nn.Linear()(ht)
-            # decoder_output = F.softmax(ht, hht)
             # # TODO: --------------------------------------------------------------------- /CUT
 
     def forward(self, tgt_inputs, encoder_out, incremental_state=None):
@@ -333,15 +315,6 @@ class LSTMDecoder(Seq2SeqDecoder):
         if self.use_lexical_model:
             # __LEXICAL: Incorporate the LEXICAL MODEL into the prediction of target tokens here
             pass
-            # lexical_output = self.lexical_model(src_embeddings, decoder_output)
-            # decoder output = nn.Linear()
-            # torch.cat()
-            # fl = nn.Linear(bias=False)(fl)
-            # htt = F.tanh(fl)+ fl
-            # htt = nn.Linear()(htt)
-            # ht = nn.LayerNorm()(decoder_output)
-            # linear_output = self.lexical_model[-1]()
-            # decoder_output = F.softmax(decoder_output + linear_output)
             # TODO: --------------------------------------------------------------------- /CUT
 
 
