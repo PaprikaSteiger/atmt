@@ -33,7 +33,9 @@ sacrebleu /home/melvin/Desktop/mt-assignments/atmt/data/en-fr/raw/test.en -i /ho
 ## deeper model with pbe
 
 ### model settings
-INFO: Arguments: {'cuda': False, 'data': '/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/prepared', 'source_lang': 'fr', 'target_lang': 'en', 'max_tokens': None, 'batch_size': 128, 'train_on_tiny': False, 'data_prefix': 'bpe_', 'arch': 'deep-lstm', 'max_epoch': 500, 'clip_norm': 4.0, 'lr': 0.003, 'patience': 3, 'log_file': None, 'save_dir': 'deep_bpe_continued', 'restore_file': 'checkpoint_last.pt', 'save_interval': 1, 'no_save': False, 'epoch_checkpoints': False, 'encoder_embed_dim': 64, 'encoder_embed_path': None, 'encoder_hidden_size': 64, 'encoder_num_layers': 3, 'encoder_bidirectional': 'True', 'encoder_dropout_in': 0.25, 'encoder_dropout_out': 0.25, 'decoder_embed_dim': 64, 'decoder_embed_path': None, 'decoder_hidden_size': 128, 'decoder_num_layers': 3, 'decoder_dropout_in': 0.25, 'decoder_dropout_out': 0.25, 'decoder_use_attention': 'True', 'decoder_use_lexical_model': 'False', 'device_id': 0}
+'batch_size': 128,
+'encoder_num_layers': 3,
+'decoder_num_layers': 3,
 translation setting: max length 70
 ### bleu score
 {
