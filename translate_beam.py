@@ -34,6 +34,7 @@ def get_args():
     parser.add_argument('--max-len', default=100, type=int, help='maximum length of generated sequence')
     parser.add_argument('--nbest', default=0, type=int, help='number of translations created for each reference')
     # Add beam search arguments
+    parser.add_argument('--short-test', action='store_true', help='run short version of test set')
     parser.add_argument('--beam-size', default=11, type=int, help='number of hypotheses expanded in beam search')
     # alpha hyperparameter for length normalization (described as lp in https://arxiv.org/pdf/1609.08144.pdf equation 14)
     parser.add_argument('--alpha', default=0.0, type=float, help='alpha for softer length normalization')
@@ -58,8 +59,14 @@ def main(args):
 
     # Load dataset
     test_dataset = Seq2SeqDataset(
-        src_file=os.path.join(args.data, '{}test_short.{:s}'.format(args.data_prefix, args.source_lang)),
-        tgt_file=os.path.join(args.data, '{}test_short.{:s}'.format(args.data_prefix, args.target_lang)),
+        src_file=os.path.join(
+            args.data,
+            '{}test{}.{:s}'.format(args.data_prefix, '_short' if args.short_test else '', args.source_lang)
+        ),
+        tgt_file=os.path.join(
+            args.data,
+            '{}test{}.{:s}'.format(args.data_prefix, '_short' if args.short_test else '', args.target_lang)
+        ),
         src_dict=src_dict, tgt_dict=tgt_dict)
 
     test_loader = torch.utils.data.DataLoader(test_dataset, num_workers=1, collate_fn=test_dataset.collater,

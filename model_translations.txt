@@ -1,1000 +1,1000 @@
 0
-0.1	. ac !
-0.2	î ( ac !
-0.3	î ( ac ) K ps<w> ) K fait<w> ) K fait<w> ) K -
-0.4	î ( ac ) K ps<w> ) K fait<w> ) K fait<w> ) K -
+0.1	J that<w> vo ver vo sav /
+0.2	J that<w> vo ver vo sav /
+0.3	J that<w> vo ver vo sav /
+0.4	J that<w> vo ver vo sav /
 1
-1.1	? us<w> !
-1.2	5 ? W & us<w> !
-1.3	& us<w> . W & 7<w> us<w> !
-1.4	& us<w> . W & 7<w> us<w> !
+1.1	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+1.2	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+1.3	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+1.4	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
 2
-2.1	us<w> !
-2.2	? us<w> !
-2.3	ette<w> ? í om<w> om<w> 7<w> ) ê ( A
-2.4	ette<w> ? í om<w> om<w> 7<w> ) ê ( !
+2.1	taxi<w> tr the leil<w> tr the ir<w> tr
+2.2	taxi<w> tr the leil<w> tr the ir<w> tr
+2.3	taxi<w> tr the leil<w> tr the ir<w> tr
+2.4	taxi<w> tr the leil<w> tr the ir<w> tr
 3
-3.1	l<w> se<w> ? j 1 & se<w> !
-3.2	l<w> se<w> ? j 1 & se<w> !
-3.3	l<w> 1 & se<w> ? ç ) K U !
-3.4	l<w> se<w> ? j 1 & se<w> ! C<w> A &<w> ) 8 w<w> -
+3.1	taxi<w> is at vo the J that<w> at /
+3.2	taxi<w> is at vo the J that<w> at /
+3.3	taxi<w> is at vo the J that<w> at /
+3.4	taxi<w> is at vo the J that<w> at /
 4
-4.1	se<w> . ‽<w> 1 , ‽<w> C<w> 1 , it ch<w> !
-4.2	se<w> . ‽<w> 1 , ‽<w> C<w> 1 , it ing<w> ) 9 , ‽<w> T<w> ) 8 -
-4.3	se<w> . ‽<w> 1 , ‽<w> C<w> 1 , it ing<w> ) 9 , ‽<w> T<w> ) 8 -
-4.4	se<w> . ‽<w> 1 , ‽<w> C<w> 1 , it ing<w> ) 9 , ‽<w> T<w> ) K la<w> 1 -
+4.1	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+4.2	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+4.3	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+4.4	taxi<w> is eba<w> afr go<w> tr the ir<w> /
 5
-5.1	é<w> !
-5.2	é<w> ( A r $ 9 ) K , it ) K ill !
-5.3	é<w> ( A r $ 9 ) K , it ) K ill !
-5.4	é<w> ( A r $ k ​ ) A<w> , it om<w> 7<w> ) K , it<w> ri -
+5.1	J $
+5.2	J $
+5.3	J $
+5.4	J $
 6
-6.1	? us<w> !
-6.2	us<w> . I 7<w> us<w> !
-6.3	us<w> . I 7<w> us<w> ! m
-6.4	us<w> . I sa<w> T<w> ) L<w> think<w> -
+6.1	on the afr ici<w> the afr go<w> tr the afr /
+6.2	on the afr ici<w> the afr go<w> tr the afr /
+6.3	on the afr ici<w> the afr go<w> tr the afr /
+6.4	on the afr ici<w> the afr go<w> tr the afr /
 7
-7.1	( f<w> K la<w> 1 , ‽<w> tre<w> !
-7.2	( f<w> K la<w> 1 , ‽<w> C<w> !
-7.3	( f<w> K la<w> 1 , ‽<w> C<w> !
-7.4	( f<w> K la<w> 1 , ‽<w> C<w> ) K , ‽<w> C<w> ) K ill !
+7.1	taxi<w> @
+7.2	taxi<w> @
+7.3	J that<w> at @
+7.4	J that<w> at @
 8
-8.1	. À , ‽<w> T<w> ) K , it ing<w> -
-8.2	. À , ‽<w> T<w> ) K , it with<w> -
-8.3	. À , ‽<w> T<w> ) K , it ch<w> -
-8.4	. À , ‽<w> T<w> ) K , it H<w> -
+8.1	J ver vo ver go<w>
+8.2	J ver vo ver go<w>
+8.3	J ver vo ver go<w>
+8.4	J ver vo ver vo ver vo the veillé<w> /
 9
-9.1	r ( 9 ) K ps<w> r $ é ) K ps<w> !
-9.2	r ( 9 ) K ps<w> r $ é ) K ps<w> !
-9.3	r ( P p ) K ps<w> r $ 9 ​ ) é ) 9 ( !
-9.4	r ( 9 ) K ps<w> r $ é ) K ps<w> ! a A ( ) L<w> r $ ? em -
+9.1	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+9.2	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+9.3	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+9.4	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
 10
-10.1	À é ) K ps<w> ) K , mo !
-10.2	À R ) $<w> ( H À K , mo -
-10.3	À R ) $<w> ( H À K , mo ) K , mo -
-10.4	À R ) $<w> ( H À vi , mo ) K , mo v H K , mo ) K , mo -
+10.1	J seen<w> sav /
+10.2	J seen<w> sav /
+10.3	J seen<w> sav /
+10.4	J seen<w> sav /
 11
-11.1	$ p ) to ) to ) our r $ 9 ​ si<w> ) $<w> 5 !
-11.2	$ p ) to ) to ) our r $ 9 ​ si<w> ) S 5 !
-11.3	$ p ) to ) to ) our r $ 9 ​ si<w> ) $<w> 5 ! $ p ​ tout<w> !
-11.4	$ p ) to ) to ) our r $ 9 ​ si<w> ) $<w> 5 ! $ p ? é 5 !
+11.1	taxi<w> tr at @
+11.2	taxi<w> tr at @
+11.3	taxi<w> is at @
+11.4	taxi<w> tr at @ ? 0 ? ? ? ? ? 0 ? @ ? W 0 ? ? ? - tr tr 0 ? ? 0 ? ; 0 ? 0 ? ; . 0 ? 0 ? ; ‽ $
 12
-12.1	r ( P ç ) $<w> ) K ps<w> !
-12.2	r ( P ç ) $<w> ) K ps<w> !
-12.3	r ( P ç ) $<w> ) K ps<w> 0 r $ é ) K fois<w> !
-12.4	r ( P ç ) $<w> ) K ps<w> 0 r $ é ) K fois<w> !
+12.1	taxi<w> is on at - tr the ir<w> /
+12.2	taxi<w> is on at - tr the ir<w> /
+12.3	taxi<w> is on at - tr the ir<w> /
+12.4	taxi<w> is on at - tr the ir<w> /
 13
-13.1	se<w> . , ai 1 se<w> !
-13.2	se<w> . ai ai 1 , ai 1 se<w> !
-13.3	se<w> . , ai 1 , ai 1 se<w> !
-13.4	se<w> . , ai 1 , ai 1 se<w> !
+13.1	at is at vo the man /
+13.2	at is at vo the man /
+13.3	at is at vo the man /
+13.4	at is at vo the man /
 14
-14.1	? us<w> !
-14.2	ette<w> ? per ) K ​ q<w> 4 q<w> !
-14.3	ette<w> ? per ) K ​ q<w> h<w> C<w> !
-14.4	& us<w> . per ) K ​ q<w> 4 q<w> !
+14.1	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+14.2	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+14.3	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+14.4	& us<w> ? ‽ ‽ go<w> on the leil<w> -
 15
-15.1	$ À p ) 9 I r $ p ) L<w> r $ é ) 8 I we<w> -
-15.2	$ À p ) 9 I r $ p ) L<w> r $ é ) 8 I di !
-15.3	$ À p ) 9 I r $ p ) L<w> r $ p ) L<w> I we<w> -
-15.4	$ À p ) 9 I r $ p ) L<w> r $ é ) $<w> I we<w> -
+15.1	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+15.2	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+15.3	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+15.4	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
 16
-16.1	can<w> à . ç ) ê , mo Ô ) & S<w> Ô Ô T 9 ) K il<w> -
-16.2	can<w> à . ç ) ê , mo Ô ) & S<w> Ô Ô T 9 ​ ç ) 8 -
-16.3	can<w> à . ç ) ê , mo Ô ) & S<w> Ô Ô T 9 ​ ç ) 8 -
-16.4	can<w> à . ç ) ê , mo Ô ) & S<w> Ô Ô T 9 ​ ç ) 8 -
+16.1	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+16.2	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+16.3	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+16.4	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
 17
-17.1	E / é ) K la<w> 1 plus<w> !
-17.2	E / ré ) K la<w> 1 plus<w> !
-17.3	7 . G plea ) K la<w> 1 plus<w> !
-17.4	E / ré ) K la<w> 1 plus<w> ) K Â â -
+17.1	sav /
+17.2	sav /
+17.3	taxi<w> /
+17.4	taxi<w> /
 18
-18.1	se<w> . S<w> ement<w> ) $<w> ( 9 &<w> ) K ;<w> -
-18.2	se<w> . S<w> ement<w> ) $<w> ( 9 &<w> ) K ;<w> -
-18.3	se<w> . S<w> ement<w> ) $<w> ( 9 &<w> ) K ;<w> -
-18.4	se<w> . S<w> ement<w> ) $<w> ( 9 &<w> ) K ;<w> !
+18.1	at tr ‽ ‽ ‽ /
+18.2	at tr ‽ ‽ ‽ /
+18.3	at tr ‽ ‽ ‽ /
+18.4	at tr ‽ ‽ ‽ /
 19
-19.1	T A r $ p ) S r $ ? ‽ ⊂ !
-19.2	T A r $ p ) S r $ p ​ ‽ ⊂ !
-19.3	T A r $ p ) S r $ p ​ ‽ ⊂ r $ ? ‽ ⊂ -
-19.4	T A r $ p ) S r $ p ​ ‽ ⊂ r $ p ​ ‽ ⊂ -
+19.1	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+19.2	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+19.3	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+19.4	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
 20
-20.1	@ 9 ) K I ch ) L<w> -
-20.2	@ 9 ) K I ch ) L<w> - m
-20.3	@ 9 ) K I ch ) L<w> - m m
-20.4	@ 9 ) K I ing<w> ) K ill ) L<w> ) L<w> ) L<w> -
+20.1	@
+20.2	@
+20.3	@
+20.4	@
 21
-21.1	? us<w> !
-21.2	t us<w> !
-21.3	? us<w> ? per !
-21.4	? us<w> ! E / K apo !
+21.1	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+21.2	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+21.3	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+21.4	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
 22
-22.1	ù K l<w> ez<w> ) K ps<w> !
-22.2	ù K l<w> ez<w> ) K ps<w> ) K ill -
-22.3	ù K apo ) K ps<w> ) K ps<w> ) K ill -
-22.4	ù K apo ) K ps<w> ) K ps<w> ) K ps<w> !
+22.1	/
+22.2	on /
+22.3	on /
+22.4	ver /
 23
-23.1	A ( S<w> ine<w> om<w> 7<w> 9<w> ù 9 ​ h go -
-23.2	A ( S<w> ine<w> om<w> 7<w> 9<w> ù 9 ​ , go -
-23.3	A ( S<w> ine<w> om<w> 7<w> 9<w> ù 9 ​ u C le -
-23.4	A ( S<w> ine<w> om<w> 7<w> 9<w> ù 9 ​ u C go -
+23.1	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+23.2	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+23.3	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+23.4	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
 24
-24.1	U . a ) K ​ !<w> ) to ) to ) & em !
-24.2	U . a ) K ​ !<w> ) to ) to ) to ) & em !
-24.3	U . a ) K ​ !<w> ) to ) to ) to ) to ) & em !
-24.4	U . a ) K ​ !<w> ) to ) to ) to ) to ) to ) & em !
+24.1	on /
+24.2	on /
+24.3	on /
+24.4	on /
 25
-25.1	$ p ) S I r $ ? 4 al<w> !
-25.2	$ p ) 9 I ch ) S 5 $ ? W k<w> !
-25.3	$ p ) 9 I ch ) S 5 $ p ) to w<w> !
-25.4	$ p ) 9 I ch ) S 5 $ p , ‽<w> te<w> !
+25.1	on at - importe<w> tr at /
+25.2	on at - importe<w> tr at /
+25.3	on at - importe<w> at - J that<w> at /
+25.4	on at - importe<w> at - J that<w> at /
 26
-26.1	? us<w> !
-26.2	? us<w> !
-26.3	& us<w> ? I ch ) K ps<w> !
-26.4	& us<w> ? I ch ) K ps<w> ! m
+26.1	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+26.2	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+26.3	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+26.4	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
 27
-27.1	plus<w> e ) K la<w> 1 plus<w> !
-27.2	plus<w> e ) K la<w> 1 plus<w> ) K apo !
-27.3	plus<w> e ) K la<w> 1 plus<w> ) S a ) $<w> w<w> !
-27.4	plus<w> e ) K la<w> 1 plus<w> ) S a ) ê ( ) K fois<w> !
+27.1	plus<w> tr the thought<w> tr manger<w> ree<w> /
+27.2	plus<w> tr the thought<w> tr manger<w> ree<w> /
+27.3	plus<w> tr the thought<w> tr manger<w> ree<w> /
+27.4	plus<w> tr the thought<w> tr manger<w> ree<w> /
 28
-28.1	é<w> ( A r $ 9 ) S r $ 9 ) 9 ter<w> !
-28.2	é<w> ( A r $ p ) S r $ ? p ) 9 ter<w> !
-28.3	é<w> ( A r $ 9 ) S r $ ? p ) 9 ter<w> !
-28.4	é<w> ( A r $ p ) S r $ ? p ) 9 our !
+28.1	J $
+28.2	J $
+28.3	J $ ? ‽ ‽ - tr J that<w> tr at - tr at - tr at tr the ir<w> ; the boys<w> $
+28.4	J $ ? ‽ ‽ - tr J that<w> tr at - tr at - tr at tr the ir<w> ; the boys<w> $
 29
-29.1	$ ù K apo r ( 9 ) K l<w> i ) K ps<w> !
-29.2	$ 9 ) K apo r ( 9 ) K l<w> i ) K ps<w> !
-29.3	$ 9 ) K apo r ( 9 ) K l<w> i ) K ps<w> !
-29.4	$ ù K apo r ( 9 ) K l<w> i ) K , ‽<w> i !
+29.1	on @
+29.2	on @
+29.3	on @
+29.4	on @
 30
-30.1	r ( P si<w> ) S r $ ? Q ) 9 , it st 1 ) ( -
-30.2	r ( P si<w> ) S r $ ? Q ) 9 , it st 1 ) ( -
-30.3	r ( P si<w> ) S r $ ? Q ) 9 , it st 1 ) ( -
-30.4	r ( P si<w> ) S r $ ? Q ) 9 , it st 1 ) ( -
+30.1	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+30.2	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+30.3	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+30.4	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
 31
-31.1	,<w> . ) K 5 us<w> !
-31.2	,<w> . ) K la<w> 1 , us<w> !
-31.3	,<w> . a ) K la<w> 1 , us<w> !
-31.4	,<w> . a ) K la<w> 1 , us<w> ? tou -
+31.1	J that<w> on the leil<w> tr the afr /
+31.2	J that<w> on the leil<w> tr the afr /
+31.3	J that<w> on the leil<w> tr the afr /
+31.4	J that<w> on the leil<w> tr the afr /
 32
-32.1	T H / K Â em !
-32.2	T H / K Â em em !
-32.3	T H / $<w> r 3 ù K étudi !
-32.4	T H / $<w> r 3 ù K , le<w> k<w> !
+32.1	@
+32.2	taxi<w> @
+32.3	taxi<w> @
+32.4	taxi<w> @
 33
-33.1	z<w> 6 b ) & pu 1 & gs<w> . ç ) K & ou<w> C<w> A ) K ill !
-33.2	z<w> 6 b ) & pu 1 & gs<w> . ç ) K & ou<w> C<w> A ) K ill !
-33.3	z<w> 6 b ) & pu 1 & gs<w> . ç ) K & ou<w> C<w> A ) K ill !
-33.4	z<w> 6 b ) & pu 1 & gs<w> . ç ) K & ou<w> C<w> A ) K ill !
+33.1	go<w> at @ @ 9 )
+33.2	go<w> at @ @ 9 )
+33.3	go<w> at @ @ 9 )
+33.4	go<w> at @ @ 9 ​ 0 J that<w> on the stand<w> go<w>
 34
-34.1	? us<w> !
-34.2	us<w> !
-34.3	us<w> . es 7<w> us<w> !
-34.4	? us<w> ? es 7<w> us<w> !
+34.1	on tr tr tr tr the thought<w> /
+34.2	on tr tr tr tr the thought<w> /
+34.3	on tr tr tr tr the thought<w> /
+34.4	on tr tr tr tr the thought<w> /
 35
-35.1	our ? per ) $<w> r $ 9 ) be<w> x !
-35.2	our ? per ) $<w> r $ 9 ) be<w> x !
-35.3	our ? per ) $<w> r $ ? ç ) he<w> x !
-35.4	our ? per ) $<w> r $ ? ç ) he<w> 2 !
+35.1	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+35.2	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+35.3	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+35.4	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
 36
-36.1	r ( Q ) S r $ p ) K , it !
-36.2	r ( Q ) S r $ p ) K , it H<w> h<w> C<w> !
-36.3	r ( Q ) S r $ p ) K , it om<w> h<w> C<w> !
-36.4	r ( Q ) S r $ p ) K , it om<w> h<w> C<w> !
+36.1	on @
+36.2	on @
+36.3	on @
+36.4	on @
 37
-37.1	$ 9 ) 0<w> &<w> !
-37.2	$ 9 ) 0<w> &<w> em !
-37.3	$ 9 ) 0<w> &<w> r $ 9 ) K &<w> !
-37.4	$ 9 ) 0<w> &<w> r $ 9 ) K &<w> 4<w> !
+37.1	at @
+37.2	at @
+37.3	at @
+37.4	at @
 38
-38.1	T A $ p ) S em em !
-38.2	T H 8 $ p ) 9 ​ em em !
-38.3	T H 8 $ p ) 9 ​ em h<w> C<w> !
-38.4	T H / K Â em 0 r $ 9 ​ si<w> ) 9 ‽<w> ro -
+38.1	@
+38.2	taxi<w> @
+38.3	taxi<w> @
+38.4	taxi<w> - J that<w> at $
 39
-39.1	r ( P si<w> ) K ps<w> !
-39.2	pu 1 à . si<w> ) K ill !
-39.3	pu 1 à . si<w> ) K ill !
-39.4	r ( P si<w> ) K ps<w> ! m
+39.1	on tr tr tr tr the man go<w> tr the ir<w> @
+39.2	on tr tr tr tr the man go<w> tr the ir<w> @
+39.3	on tr tr tr tr the man go<w> tr the ir<w> @
+39.4	on tr tr tr tr the man go<w> tr the ir<w> @
 40
-40.1	$ 9 ) K<w> ) ( !
-40.2	$ 9 ) K<w> ) ( r $ 9 ) K ill !
-40.3	$ 9 ) K<w> ) ( r $ 9 ) K at !
-40.4	$ 9 ) K<w> ) ( ! $ p ) K la<w> 1 ) $<w> 5 T p ) L<w> !
+40.1	@
+40.2	@
+40.3	taxi<w> @
+40.4	taxi<w> @
 41
-41.1	A ( apo $ 9 ) to ) K , ‽<w> C<w> !
-41.2	A ( apo $ 9 ) to ) K , ‽<w> C<w> !
-41.3	A ( apo $ 9 ) to ) K , ‽<w> T<w> ) K fo !
-41.4	A ( apo $ 9 ) to ) K , ‽<w> T<w> ) K fo !
+41.1	on tr tr tr the boys<w> .
+41.2	on tr tr tr the boys<w> .
+41.3	on tr tr tr the boys<w> .
+41.4	on tr tr tr the boys<w> .
 42
-42.1	r S<w> om<w> 9 ​ pu ) $<w> ) $<w> ) $<w> ) $<w> w<w> !
-42.2	r S<w> om<w> 9 ​ pu ) $<w> ) $<w> ) $<w> ) K la<w> 1 ) $<w> 5 !
-42.3	r S<w> om<w> 9 ​ pu ) $<w> ) $<w> ) $<w> ) K la<w> 1 ) $<w> ) $<w> w<w> !
-42.4	r S<w> om<w> 9 ​ pu ) $<w> ) $<w> ) $<w> ) K la<w> 1 ) $<w> ) $<w> ) $<w> w<w> !
+42.1	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+42.2	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+42.3	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+42.4	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
 43
-43.1	$ À 9 ) é I U c r $ é ) K ill !
-43.2	$ À 9 ) é I U c r $ 9 ​ S<w> om<w> 7<w> !
-43.3	$ À 9 ) é I U c r $ 9 ​ S<w> om<w> 7<w> !
-43.4	$ À 9 ) é I U c r $ 9 ​ S<w> om<w> 7<w> !
+43.1	J cher I ici<w> tr tr tr tr tr on the man /
+43.2	J cher I ici<w> tr tr tr tr tr on the man /
+43.3	J cher I ici<w> tr tr tr tr tr on the man /
+43.4	J cher I ici<w> tr tr tr tr tr on the man /
 44
-44.1	$ ? pu 1 es 7<w> us<w> !
-44.2	$ p ) gen r $ p , ‽<w> us<w> !
-44.3	$ p ) gen r $ 9 ​ , ‽<w> us<w> !
-44.4	$ p ) gen r $ ? R<w> , ‽<w> us<w> !
+44.1	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+44.2	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+44.3	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+44.4	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
 45
-45.1	h<w> C<w> à ? 4 al<w> !
-45.2	h<w> C<w> à ? 4 al<w> ! $ ? 4 al<w> !
-45.3	h<w> C<w> à ? 4 al<w> r $ ? 4 al<w> !
-45.4	h<w> C<w> à ? 4 al<w> 0 r $ ? 4 al<w> !
+45.1	h<w> ? ‽ ‽ ; ; ? tr ‽ $
+45.2	h<w> ? ‽ ‽ ; ; ? tr ‽ $
+45.3	h<w> ? ‽ ‽ ; ; ? tr ‽ ; ?
+45.4	h<w> ? ‽ ‽ ; ; ? tr ‽ ; ?
 46
-46.1	$ 9 ) to ) K apo r $ p ) K h T<w> ) $<w> 5 !
-46.2	$ 9 ) to ) K apo r $ p ) K h T<w> ) $<w> 5 ! $ p ) 9 h H<w> -
-46.3	$ 9 ) to ) K apo r $ p ) K h T<w> ) $<w> 5 ! $ p ) K h st 1 ( -
-46.4	$ 9 ) to ) K apo r $ p ) K h T<w> ) $<w> 5 ! $ p ) K h st 1 ( -
+46.1	on /
+46.2	J ver vo the boys<w> tr the boys<w> @
+46.3	J ver vo the boys<w> tr the boys<w> @
+46.4	J ver vo the boys<w> tr the boys<w> @
 47
-47.1	$ û R ) l x ‽ ⊂ !
-47.2	$ û R ) l x ‽ ⊂ ! m
-47.3	$ û R ) l x ‽ ⊂ ) K ne<w> !
-47.4	$ û R ) l x ‽ ⊂ ) K ne<w> ! m
+47.1	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+47.2	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+47.3	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+47.4	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
 48
-48.1	ré ) K h q Ô ( P ‽ ⊂ 0 © ( P ‽ ⊂ 0 ‽ Ô Ô 2 . ‽ G ) ê Z -
-48.2	ré ) K h q Ô ( P ‽ ⊂ 0 © ( P ‽ ⊂ 0 ‽ Ô Ô 2 . ‽ G ) ê Z -
-48.3	ré ) K h q Ô ( P ‽ ⊂ 0 © ( P ‽ ⊂ 0 ‽ Ô Ô 2 . ‽ G ) ê Z -
-48.4	ré ) K h q Ô ( P ‽ ⊂ 0 © ( P ‽ ⊂ 0 ‽ Ô Ô 2 . ‽ G ) ê Z -
+48.1	ver /
+48.2	ver /
+48.3	afr /
+48.4	afr /
 49
-49.1	r ( r<w> é ) K apo r $ 9 ​ ) S r $ 9 ) S !
-49.2	r ( r<w> é ) K apo r $ 9 ​ ) S r $ 9 , it H<w> !
-49.3	r ( r<w> é ) K apo r $ 9 ​ ) S r $ 9 , it H<w> !
-49.4	r ( r<w> é ) K apo r $ 9 ​ ) S r $ 9 ​ si<w> ) S !
+49.1	at is @
+49.2	at is @
+49.3	taxi<w> @ tr tr @ @ 9 ​ -
+49.4	taxi<w> @ tr tr @ @ 9 ​ -
 50
-50.1	& po . ‽ U<w> Ô ) K la<w> 1 C Ô T ù K ill ) K ill !
-50.2	& po . ‽ U<w> Ô ) K la<w> 1 C Ô T ù K ill ) quel ) K at !
-50.3	& po . ‽ U<w> Ô ) K la<w> 1 C Ô T ù K ill ) quel ) K ill -
-50.4	& po . ‽ U<w> Ô ) K la<w> 1 C Ô T ù K ill ) quel ) K ill !
+50.1	J that<w> vo ver vo the vin<w> @
+50.2	J that<w> vo ver vo the vin<w> @
+50.3	J that<w> vo ver vo the vin<w> @
+50.4	J that<w> vo ver vo the vin<w> @
 51
-51.1	. À S<w> le<w> ) $<w> ) ê u<w> ou<w> ) $<w> ) $<w> ) $<w> ) $<w> -
-51.2	. À S<w> le<w> ) $<w> ) ê u<w> ou<w> ) $<w> ) $<w> ) $<w> ) $<w> w<w> -
-51.3	. À S<w> le<w> ) $<w> ) ê u<w> ou<w> ) $<w> ) $<w> ) $<w> ) $<w> ) $<w> -
-51.4	. À S<w> le<w> ) $<w> ) ê u<w> ou<w> ) $<w> ) $<w> ) $<w> ) $<w> ) $<w> w<w> -
+51.1	tres<w> is on the ir<w> on the ir<w> /
+51.2	tres<w> is on the ir<w> on the ir<w> /
+51.3	tres<w> is on the ir<w> on the ir<w> /
+51.4	tres<w> is on the ir<w> on the ir<w> /
 52
-52.1	r $ 9 ) $<w> r $ k ​ ç ) K étudi !
-52.2	r $ 9 ) $<w> r $ k ​ ç ) K apo ) K étudi !
-52.3	r $ 9 ) $<w> r $ k ​ ç ) K apo ) K at !
-52.4	r $ 9 ) $<w> r $ k ​ ç ) K apo ) K ill !
+52.1	taxi<w> tr at .
+52.2	taxi<w> tr at .
+52.3	taxi<w> tr at $
+52.4	taxi<w> tr at ? 0 J that<w> go<w> at ici<w> the ir<w> ici<w> the ir<w> @
 53
-53.1	? us<w> !
-53.2	& us<w> ? ex ) K ill !
-53.3	& us<w> . qu ill ) K ill !
-53.4	& us<w> ? ex ) $<w> ) K ill !
+53.1	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+53.2	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+53.3	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+53.4	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
 54
-54.1	se<w> . le<w> ) K la<w> 1 se<w> !
-54.2	se<w> . le<w> ) K la<w> 1 & se<w> !
-54.3	se<w> . le<w> ) K la<w> 1 se<w> ) K , ing<w> ) K la<w> 1 se<w> !
-54.4	se<w> . le<w> ) K la<w> 1 se<w> ) K , ing<w> ) K la<w> 1 se<w> !
+54.1	taxi<w> is at tr J that<w> tr at /
+54.2	taxi<w> is at tr J that<w> tr at /
+54.3	taxi<w> is at tr J that<w> tr at /
+54.4	taxi<w> is at tr J that<w> tr at /
 55
-55.1	À 8 ( À é ) L<w> -
-55.2	À 8 ( À é ) K ill -
-55.3	À 8 ( À é ) K ill !
-55.4	À 8 ( À é ) L<w> D<w> -
+55.1	/
+55.2	J ears<w> vo ver vo ver /
+55.3	J ears<w> vo ver vo ver /
+55.4	J ears<w> vo ver vo ver vo the vin<w> go<w>
 56
-56.1	. se<w> se<w> M I S<w> !
-56.2	. se<w> se<w> M I S<w> !
-56.3	. se<w> se<w> ) 9 I S<w> ent -
-56.4	. se<w> se<w> ) 9 I S<w> se<w> -
+56.1	taxi<w> is at @
+56.2	taxi<w> is at @
+56.3	taxi<w> is at /
+56.4	taxi<w> is at - importe<w> at is @
 57
-57.1	à . G ‽ ou<w> ) K ‽ ou<w> !
-57.2	à . G ‽ ou<w> ) K ‽ ⊂ !
-57.3	à . G ‽ ou<w> ) K ‽ , ‽<w> C<w> !
-57.4	à . G ‽ ou<w> ) K ‽ ou<w> ) K ‽ ⊂ !
+57.1	at is @
+57.2	at is @
+57.3	at is @
+57.4	at is @
 58
-58.1	) K de<w> son<w> !
-58.2	) K de<w> ) K apo ) K U !
-58.3	) K de<w> ) K apo ) K apo ) K étudi !
-58.4	) K de<w> ) K apo ) K apo ) K apo ) K étudi !
+58.1	on the trou tr tr the tr J that<w> tr the thought<w> /
+58.2	on the trou tr tr the tr J that<w> tr the thought<w> /
+58.3	on the trou tr tr the tr J that<w> tr the thought<w> /
+58.4	on the trou tr tr the tr J that<w> tr the thought<w> /
 59
-59.1	? us<w> !
-59.2	er ) K U !
-59.3	er ) K U ) K mo !
-59.4	& us<w> . ç ) K , mo !
+59.1	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+59.2	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+59.3	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+59.4	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
 60
-60.1	é<w> ( A r $ 9 ) S r $ 9 ) K ill !
-60.2	é<w> ( A r $ p ) S r $ 9 ) K ill !
-60.3	é<w> ( A $ p ) to r $ p ) to W h<w> C<w> !
-60.4	é<w> ( A $ p ) to r $ p ) to W h<w> em !
+60.1	J that<w> tr 0 ; - tr on the boys<w> $
+60.2	J that<w> tr 0 ; - tr on the boys<w> $
+60.3	J that<w> tr 0 ; - tr on the boys<w> $
+60.4	J that<w> tr 0 ; - tr on the boys<w> $
 61
-61.1	r ( t p ) K ps<w> Ô ( P ç ) S r ( S !
-61.2	r ( t p ) K ps<w> Ô ( P ç ) ê I ch Ô T A -
-61.3	r ( t p ) K ps<w> Ô ( P ç ) ê I ch Ô T A -
-61.4	r ( t p ) K ps<w> Ô ( P ç ) ê I ch Ô T S -
+61.1	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+61.2	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+61.3	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+61.4	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
 62
-62.1	r ( Q ) S r $ ? h<w> C<w> !
-62.2	r ( Q ) S r $ ? h<w> k<w> !
-62.3	r ( Q ) S r $ ? h<w> k<w> 0 Â $ é ) 9
-62.4	r ( Q ) S r $ 9 ​ 0 r $ 9 ​ k<w> -
+62.1	at tr tr I ? 0 ? 0 ? ; ‽ $
+62.2	at tr tr I ? 0 ? 0 ? ; ‽ $
+62.3	at tr tr I ? 0 ? 0 ? ; ‽ $
+62.4	at tr tr I ? 0 ? 0 ? ; ‽ $
 63
-63.1	r à e ) K í om<w> ass !
-63.2	r à e ) K í om<w> om<w> om<w> -
-63.3	r à e ) K í om<w> om<w> om<w> ass -
-63.4	r à e ) K í om<w> om<w> om<w> om<w> -
+63.1	ver go<w> J ver on the boys<w> tr the afr /
+63.2	ver go<w> J ver on the boys<w> tr the afr /
+63.3	ver go<w> J ver on the boys<w> tr the afr /
+63.4	ver go<w> J ver on the boys<w> tr the afr /
 64
-64.1	I bu . ç ) ro Z a ) L<w> -
-64.2	I bu ? À si<w> ) L<w> ) L<w> -
-64.3	I bu . ç ) ro Z ) L<w> -
-64.4	I bu . ç ) ro Z a ) L<w> ) L<w> -
+64.1	tres<w> is on the man ici<w> the ir<w> /
+64.2	tres<w> is on the man ici<w> the ir<w> /
+64.3	tres<w> is on the man ici<w> the ir<w> /
+64.4	tres<w> is on the man ici<w> the ir<w> /
 65
-65.1	é<w> !
-65.2	é<w> ( A r $ 9 ) S r $ p , mo !
-65.3	é<w> ( A r $ 9 ) S r $ p , mo ! m
-65.4	é<w> ( A r $ 9 ) S r $ p , mo ! m
+65.1	J $
+65.2	at is ; 0 tr on the boys<w> go<w> tr the thought<w> /
+65.3	at is ; 0 tr on the boys<w> go<w> tr the thought<w> /
+65.4	at is ; 0 tr on the boys<w> go<w> tr the thought<w> /
 66
-66.1	$ p ) to r ( P 4 q<w> !
-66.2	$ p ) to r ( P Â q<w> !
-66.3	$ p ) to r ( P 4 q<w> ! m
-66.4	$ p ) to r ( P Â q<w> ! m
+66.1	on @
+66.2	on @
+66.3	on @
+66.4	on @
 67
-67.1	7 ? D<w> ) K , it í om<w> ass !
-67.2	7 ? D<w> ) K , it í om<w> 7<w> !
-67.3	2 ? D<w> ) K , it A ) K ill !
-67.4	2 ? D<w> ) K , it A ) K , it C<w> !
+67.1	taxi<w> @
+67.2	taxi<w> @
+67.3	taxi<w> @
+67.4	taxi<w> @
 68
-68.1	à . la<w> 1 & S<w> H<w> ù K , it !
-68.2	à . la<w> 1 & H f 2 ù K ill ) ab v<w> !
-68.3	à . la<w> 1 & H f 2 ù K ill ) ab Y !
-68.4	à . la<w> 1 & H f 2 ù K ill ) K , di !
+68.1	@ J @
+68.2	@ J @
+68.3	@ J @
+68.4	@ J @
 69
-69.1	$ p ) ë ter<w> !
-69.2	$ p ) ë our !
-69.3	$ p ) ë ter<w> ! m
-69.4	$ p ) ë ter<w> 6 C<w> !
+69.1	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+69.2	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+69.3	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+69.4	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
 70
-70.1	!
-70.2	r 2 . ô 0 © $ é &<w> !
-70.3	r 2 . ô 0 © $ 9 ) K ent<w> !
-70.4	r 2 . ô 0 © $ é &<w> ) 8 5 !
+70.1	@
+70.2	on @
+70.3	on @
+70.4	at @
 71
-71.1	. U u<w> ge<w> 9 ) to U -
-71.2	. U u<w> ge<w> 9 ) to U -
-71.3	. q ) to ) to ) to U -
-71.4	. q ) to ) to ) to 3 !
+71.1	is at @
+71.2	ho at @
+71.3	ho at @
+71.4	ho at @
 72
-72.1	@ P W W C<w> r $ 9 ​ ) S !
-72.2	@ P W W C<w> r $ 9 ​ ) S r $ 9 ) 8 ; eu<w> -
-72.3	@ P W W C<w> r $ 9 ​ ) S r $ 9 ) 8 ; il -
-72.4	@ P W W C<w> r $ 9 ​ ) S r $ é ) 8 ; il -
+72.1	@
+72.2	@
+72.3	@ ? ed<w> ing<w> ) 9 ; ‽ ⊂ ; ? è ; . 0
+72.4	@ ? ed<w> ing<w> ) 9 ; ‽ ⊂ ; ? è ; . 0
 73
-73.1	À R ,
-73.2	À R ) K ‽<w> eu<w> !
-73.3	À R ) K , ‽<w> C<w> 1 se<w> !
-73.4	À R ) K ‽<w> 1 & ou<w> 1 se<w> !
+73.1	J cher any<w> at @
+73.2	J cher any<w> at @
+73.3	J cher any<w> at @
+73.4	J cher any<w> at @
 74
-74.1	à e ) S O ch h<w> C<w> !
-74.2	à e ) S O ch h<w> C<w> !
-74.3	à e ) to O ch h<w> C<w> !
-74.4	à . si<w> ) S O ch h<w> C<w> !
+74.1	on tr tr tr tr J that<w> tr - J that<w> tr at $
+74.2	on tr tr tr tr J that<w> tr - J that<w> tr at $
+74.3	on tr tr tr tr J that<w> tr - J that<w> tr at $
+74.4	on tr tr tr tr J that<w> tr - J that<w> tr at $
 75
-75.1	$ 9 ) K I ch ) L<w> r $ p ) L<w> !
-75.2	$ 9 ) K I ch ) L<w> r $ p ) L<w> !
-75.3	$ 9 ) K I ch ) L<w> r $ p ) L<w> -
-75.4	$ 9 ) K I ch ) L<w> r $ p ) L<w> -
+75.1	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+75.2	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+75.3	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+75.4	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
 76
-76.1	!
-76.2	é !
-76.3	é ) K : em em !
-76.4	é ) K $ p , ‽<w> C<w> !
+76.1	on tr tr tr 0 tr /
+76.2	on tr tr tr 0 tr /
+76.3	on tr tr tr 0 tr /
+76.4	on tr tr tr 0 tr /
 77
-77.1	ê , ‽<w> C<w> !
-77.2	ê , ‽<w> C<w> ) ê , ‽<w> C<w> !
-77.3	ê , ‽<w> C<w> ) K , ‽<w> C<w> !
-77.4	ê , ‽<w> C<w> ) ê , ‽<w> C<w> ) ê , ‽<w> C<w> !
+77.1	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+77.2	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+77.3	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+77.4	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
 78
-78.1	? us<w> !
-78.2	N<w> us<w> !
-78.3	N<w> us<w> !
-78.4	t us<w> !
+78.1	manger<w> afr /
+78.2	manger<w> afr /
+78.3	manger<w> afr /
+78.4	manger<w> afr /
 79
-79.1	F co ) K -
-79.2	F co ) 8 ,<w> -
-79.3	F co ) K ,<w> -
-79.4	F co ) K co !
+79.1	taxi<w> /
+79.2	taxi<w> /
+79.3	taxi<w> go<w> nei ver /
+79.4	taxi<w> go<w> nei ver /
 80
-80.1	? us<w> !
-80.2	? us<w> ! m
-80.3	? us<w> ! m m A ( apo à 6 ette<w> -
-80.4	? us<w> ! m m A ( apo à . ç ) $<w> -
+80.1	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+80.2	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+80.3	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+80.4	on the tr tr the tr J seen<w> go<w> on the leil<w> /
 81
-81.1	se<w> . a 1 & se<w> !
-81.2	se<w> . a 1 & se<w> 1 & se<w> !
-81.3	se<w> . a 1 & se<w> 1 & se<w> !
-81.4	se<w> . a 1 & se<w> ) K r<w> é ) K r<w> é ) 9 , r<w> ch<w> -
+81.1	taxi<w> is at qu
+81.2	taxi<w> is at qu
+81.3	taxi<w> is at for sav $
+81.4	taxi<w> is at for sav $
 82
-82.1	pu 5 3 e ​ ç ) K & ou<w> 1 H<w> h<w> C<w> !
-82.2	pu 5 3 e ​ ç ) K & ou<w> 1 H<w> h<w> tre<w> !
-82.3	pu 5 3 e ​ ç ) K & ou<w> 1 H<w> h<w> C<w> ! m
-82.4	pu 5 3 ? ç ) K la<w> 1 & ou<w> C<w> A ) K , it eux<w> C tr 5 . 2 !
+82.1	J @ @ - importe<w> at @
+82.2	J @ @ - importe<w> at @
+82.3	J @ @ - importe<w> at @
+82.4	J @ @ - importe<w> at @
 83
-83.1	$ p ) 9 W & onne<w> ) K ill !
-83.2	$ p ) 9 W & onne<w> ) K ill !
-83.3	$ p ) 9 pu 5 ) K , ‽<w> T<w> ) K ill !
-83.4	$ p ) 9 W & onne<w> ) K , ing<w> ) K ill !
+83.1	on at @
+83.2	on at @
+83.3	go<w> any<w> at @
+83.4	go<w> any<w> at @
 84
-84.1	ê à p ) K , ‽<w> ar ‽ ⊂ 0 ‽ e co ) L<w> R 2 -
-84.2	ê à p ) K , ‽<w> ar ‽ ⊂ 0 ‽ e co ) L<w> R 5 -
-84.3	ê à p ) K , ‽<w> ar ‽ ⊂ 0 ‽ à . ç ) L<w> R 5 -
-84.4	ê à p ) K , ‽<w> ar ‽ ⊂ 0 ‽ à . ç ) L<w> R 2 -
+84.1	at is on the thought<w> /
+84.2	at is on the thought<w> /
+84.3	at is on the thought<w> /
+84.4	at is on the thought<w> /
 85
-85.1	D<w> . & ‽<w> k<w> ) K , ‽<w> ing<w> !
-85.2	D<w> . & ‽<w> k<w> ) K , ‽<w> ing<w> !
-85.3	D<w> . & ‽<w> k<w> ) K , ‽<w> ing<w> ) K fo !
-85.4	D<w> . & ‽<w> k<w> ) K , ‽<w> ing<w> ) K fo !
+85.1	at ears<w> on the boys<w> go<w> on the boys<w> /
+85.2	at ears<w> on the boys<w> go<w> on the boys<w> /
+85.3	at ears<w> on the boys<w> go<w> on the boys<w> /
+85.4	at ears<w> on the boys<w> go<w> on the boys<w> /
 86
-86.1	? us<w> !
-86.2	? us<w> ! m , us<w> !
-86.3	? us<w> ! m , us<w> ? plea ) K , it om<w> ass !
-86.4	? us<w> ! m , us<w> ? plea ) K , it ch<w> C , it us<w> !
+86.1	on the tr tr tr tr on the thought<w> /
+86.2	on the tr tr tr tr on the thought<w> /
+86.3	on the tr tr tr tr on the thought<w> /
+86.4	on the tr tr tr tr on the thought<w> /
 87
-87.1	a A ( apo r ( é ) S !
-87.2	a A r r ( é ) $<w> r $ ? ‽<w> son<w> !
-87.3	a A ( apo r ( é ) S r $ ? ‽<w> son<w> !
-87.4	a A r r ( é ) $<w> r $ ? ‽<w> son<w> ! m
+87.1	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+87.2	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+87.3	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+87.4	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
 88
-88.1	$ k ​ mo ) K ps<w> ) K étudi !
-88.2	$ k ​ mo ) K ps<w> ) K ps<w> !
-88.3	$ k ​ mo ) K ps<w> ) K étudi ! m
-88.4	$ k ​ mo C , ) $<w> ) K étudi !
+88.1	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+88.2	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+88.3	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+88.4	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
 89
-89.1	? us<w> !
-89.2	N<w> us<w> !
-89.3	. us<w> om<w> À , it with<w> -
-89.4	N<w> us<w> é ) K , it with<w> -
+89.1	of<w> the stand<w> /
+89.2	of<w> the stand<w> /
+89.3	on the stand<w> go<w> J ver vo the stand<w> /
+89.4	on the stand<w> go<w> J ver vo the stand<w> /
 90
-90.1	r ( P si<w> ) S 1 , ing<w> !
-90.2	r ( P si<w> ) S 1 , ‽<w> ing<w> !
-90.3	r ( P si<w> ) S 1 , ‽<w> C<w> !
-90.4	r ( P si<w> ) S 1 , ‽<w> chose<w> !
+90.1	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+90.2	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+90.3	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+90.4	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
 91
-91.1	? us<w> !
-91.2	. us<w> !
-91.3	N<w> us<w> !
-91.4	. us<w> , it om<w> 7<w> , it us<w> -
+91.1	manger<w> afr tr
+91.2	manger<w> afr tr
+91.3	manger<w> afr tr
+91.4	manger<w> afr tr
 92
-92.1	? ag !
-92.2	? ag !
-92.3	? ag ag !
-92.4	? ag ag !
+92.1	ent ici<w> the man go<w> tr at /
+92.2	ent ici<w> the man go<w> tr at /
+92.3	ent ici<w> the man go<w> tr at $
+92.4	ent ici<w> the man go<w> tr at $
 93
-93.1	tro . & f 1 v<w> ù 9 ​ ill !
-93.2	tro . & f 1 v<w> ù 7 ù K ill v ù 9 you<w> 5 !
-93.3	tro . & f 1 v<w> ù 7 ù K ill v ù 9 co 5 !
-93.4	tro . & f 1 v<w> ù 7 ù K ill v ù 9 ) is<w> 5
+93.1	at is @ - importe<w> on the leil<w> @
+93.2	at is @ - importe<w> on the leil<w> @
+93.3	at is @ - importe<w> on the leil<w> @
+93.4	at is @ - importe<w> on the leil<w> @
 94
-94.1	r ( p ) K , q<w> !
-94.2	r ( k ​ p ) K , q<w> !
-94.3	r ( k ​ p ) K , q<w> !
-94.4	r ( k ​ p ) K , q<w> !
+94.1	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+94.2	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+94.3	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+94.4	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
 95
-95.1	é<w> ( ) K Â em !
-95.2	é<w> ( A r $ 9 ) S r ( P ill em !
-95.3	é<w> ( A r $ 9 ) S r ( 9 ) K ill !
-95.4	é<w> ( A r $ 9 ) S r ( P ill em ! m
+95.1	at is $
+95.2	at is $
+95.3	at tr ; ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ go<w> tr J go<w> tr any ici<w> the afr go<w> tr ‽ ‽ /
+95.4	at tr ; ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ go<w> tr J go<w> tr any ici<w> the afr go<w> tr ‽ ‽ /
 96
-96.1	7 e ​ ) eux<w> ) K z / Q ) ab our !
-96.2	7 e ​ ) eux<w> ) K z / Q ) K fo !
-96.3	7 e ​ ) eux<w> ) K z / Q ) K l<w> k<w> ) is<w> our !
-96.4	7 e ​ ) eux<w> ) K z / Q ) S a ) 9 ​ , pos -
+96.1	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+96.2	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+96.3	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+96.4	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
 97
-97.1	h<w> ? ry<w> ing<w> ) K la<w> 1 -
-97.2	h<w> ? ry<w> ing<w> ) K la<w> 1 & T<w> -
-97.3	& h<w> ? ry<w> ing<w> ) K la<w> 1 & T<w> -
-97.4	& h<w> ? ry<w> ai can<w> à ? ç ) 8 -
+97.1	J seen<w> sav go<w> at /
+97.2	J seen<w> sav go<w> at /
+97.3	J seen<w> sav go<w> at /
+97.4	J seen<w> sav go<w> at /
 98
-98.1	$ p ) S I ch r $ p ) K ill !
-98.2	$ p ) S I ch r $ é ) K ill !
-98.3	$ p ) S I r r $ p ) K ill !
-98.4	$ p ) S I ch r $ p ) K ill 5 !
+98.1	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+98.2	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+98.3	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+98.4	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
 99
-99.1	!
-99.2	é !
-99.3	é ) K $ h<w> C<w> !
-99.4	é ) K : em em !
+99.1	at is $
+99.2	at is $
+99.3	at is $
+99.4	at is $
 100
-100.1	) K S<w> ) K apo ) K étudi !
-100.2	) K S<w> ) K apo ) K apo ) K étudi !
-100.3	à . S<w> ) to ) K apo ) K apo ) K étudi !
-100.4	) K S<w> ) K apo ) K apo ) K apo ) K étudi !
+100.1	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+100.2	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+100.3	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+100.4	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
 101
-101.1	‽<w> !
-101.2	‽<w> 1 & gs<w> A pu 1 se<w> !
-101.3	‽<w> 1 & gs<w> A pu 1 se<w> !
-101.4	‽<w> 1 & gs<w> A pu 1 & ou<w> 1 se<w> !
+101.1	any<w> @ at @
+101.2	taxi<w> @ at @
+101.3	taxi<w> @ at @
+101.4	taxi<w> @ at @
 102
-102.1	!
-102.2	2 . mon<w> ) K mon<w> !
-102.3	2 6 mon<w> ) K mon<w> ) & ll<w> 1 I der !
-102.4	2 6 mon<w> ) K mon<w> ) & ll<w> 1 I be , be -
+102.1	taxi<w> tr the man /
+102.2	taxi<w> tr the man /
+102.3	taxi<w> is on at /
+102.4	taxi<w> tr the man ici<w> the afr /
 103
-103.1	U A &<w> ) ê ,
-103.2	U A &<w> ) K , ‽<w> te<w> !
-103.3	U A &<w> ) K , ‽<w> go !
-103.4	U A &<w> ) K , ‽<w> te<w> ) K ill !
+103.1	on at @
+103.2	on at @
+103.3	taxi<w> tr at @
+103.4	taxi<w> tr at @
 104
-104.1	!
-104.2	$ 9 ) ë r $ p ) ë w<w> !
-104.3	$ 9 ) ë r $ 9 ) ë w<w> !
-104.4	$ 9 ) ë r r $ 9 ) ë w<w> !
+104.1	at tr ‽ ‽ $
+104.2	at tr ‽ ‽ $
+104.3	at tr ‽ ‽ $
+104.4	at tr ‽ ‽ $
 105
-105.1	& h<w>
-105.2	h<w> C<w> . I pu 1 ) L<w> U . ) L<w> U -
-105.3	h<w> C<w> . I pu 1 ) L<w> U . ) L<w> U - m
-105.4	h<w> C<w> . I pu 1 ) L<w> U . ) L<w> ) L<w> U -
+105.1	ap<w> /
+105.2	ap<w> /
+105.3	on at /
+105.4	on at /
 106
-106.1	h<w> om<w> 9 ​ ) K ill h<w> C<w> !
-106.2	h<w> om<w> 9 ​ ) K ill h<w> C<w> ! à e ​ avec<w> om<w> 7<w> !
-106.3	h<w> om<w> 9 ​ ) K ill h<w> C<w> ! à ? W C<w> ) K at !
-106.4	h<w> om<w> 9 ​ ) K ill h<w> C<w> ! à ? W C<w> ) K 2 !
+106.1	afr /
+106.2	h<w> afr $
+106.3	h<w> afr $
+106.4	h<w> afr $
 107
-107.1	E / K la<w> 1 ) $<w> ) K -
-107.2	E / K la<w> 1 ) $<w> ) K -
-107.3	E / ré ) K la<w> 1 ) K -
-107.4	E / ré ) K la<w> 1 ) K -
+107.1	on /
+107.2	on /
+107.3	at /
+107.4	at /
 108
-108.1	8 ( Q ) K ill !
-108.2	É ( Q ) K ill !
-108.3	É ( Q ) K ill r $ d em em !
-108.4	É ( Q ) K ill r $ 9 &<w> em !
+108.1	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+108.2	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+108.3	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+108.4	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
 109
-109.1	, ) K<w> ) 0<w> ) & 0<w> 1 , mes<w> !
-109.2	, ) K<w> ) 0<w> ) & 0<w> 1 , mes<w> ! & cel ù K apo ) K ps<w> !
-109.3	, ) K<w> ) 0<w> ) & 0<w> 1 , mes<w> ! & cel ù K apo ) K apo !
-109.4	, ) K<w> ) 0<w> ) & 0<w> 1 , mes<w> ! & cel ù K apo ) K apo !
+109.1	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+109.2	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+109.3	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+109.4	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
 110
-110.1	? us<w> !
-110.2	& us<w> . thing<w> ) K apo ) K ​ Â 4 C<w> !
-110.3	& us<w> . thing<w> ) K apo ) K ​ Â 4 C<w> !
-110.4	& us<w> . thing<w> ) K apo ) K ​ Â 4 C<w> r $ 9 ​ ç ) & em !
+110.1	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+110.2	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+110.3	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+110.4	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
 111
-111.1	r ( 9 ) S r $ ? W k<w> !
-111.2	r ( p ) S r $ ? W k<w> !
-111.3	r ( 9 ) S r $ p ​ q<w> !
-111.4	r ( 9 ) S r $ ? W C<w> !
+111.1	qu @
+111.2	qu @
+111.3	qu @
+111.4	qu @
 112
-112.1	2 ? 4 al<w> !
-112.2	5 ? 4 al<w> !
-112.3	2 ? 4 al<w> ) K ps<w> 4 S<w> ed<w> ar !
-112.4	2 ? 4 al<w> ) K ps<w> 4 S<w> ed<w> ar ‽ ⊂ !
+112.1	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+112.2	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+112.3	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+112.4	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
 113
-113.1	h<w> C<w> à . , ‽<w> jam !
-113.2	h<w> C<w> à . , ‽<w> jam -
-113.3	h<w> C<w> à . , ‽<w> jam ) K ill !
-113.4	h<w> C<w> à . , ‽<w> jam ) K , ‽<w> jam !
+113.1	on @
+113.2	on @
+113.3	on @
+113.4	on @
 114
-114.1	$ p , ‽<w> ing<w> !
-114.2	$ p , ‽<w> ing<w> ) K pu !
-114.3	$ p , ‽<w> ing<w> ) K , ‽<w> te<w> !
-114.4	$ p , ‽<w> ing<w> ) K , ‽<w> T<w> ) 9 , ‽<w> te<w> !
+114.1	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+114.2	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+114.3	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+114.4	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
 115
-115.1	? us<w> ) es us<w> !
-115.2	? us<w> ) es ette<w> !
-115.3	? us<w> ) es ette<w> ! $ p ) L<w> r $ 9 ) L<w> -
-115.4	? us<w> ) es ette<w> ! $ 9 ) L<w> r $ 9 ) L<w> -
+115.1	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+115.2	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+115.3	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+115.4	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
 116
-116.1	ter<w> . ac ) K , ‽<w> T<w> ) K B<w> !
-116.2	ter<w> e ) K , ‽<w> ere<w> ) K , ‽<w> T<w> ) K B<w> !
-116.3	ter<w> e ) K , ‽<w> ere<w> ) K , ‽<w> T<w> ) K B<w> !
-116.4	ter<w> p ) K , ‽<w> ere<w> ) K , ‽<w> T<w> ) K B<w> !
+116.1	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+116.2	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+116.3	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+116.4	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
 117
-117.1	$ 9 ) K at !
-117.2	$ 9 ) K apo ) K l<w> í son<w> !
-117.3	$ 9 ) K apo ) K l<w> H<w> ) K , . !
-117.4	$ 9 ) K apo ) K l<w> H<w> ) K , . !
+117.1	taxi<w> ho
+117.2	taxi<w> ho
+117.3	taxi<w> ho
+117.4	taxi<w> ho
 118
-118.1	$ À p ) K at r $ 9 ​ you<w> -
-118.2	$ À p ) K at r $ é ) S !
-118.3	$ À p ) K at r $ é ) to w<w> !
-118.4	$ À p ) K at r $ 9 ) to w<w> -
+118.1	on /
+118.2	on /
+118.3	J ver /
+118.4	J ver /
 119
-119.1	? us<w> !
-119.2	t us<w> !
-119.3	? us<w> ) K in<w> !
-119.4	? us<w> ) K in<w> ! m
+119.1	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+119.2	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+119.3	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+119.4	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
 120
-120.1	4 al<w> . r<w> 4 al<w> !
-120.2	4 al<w> . r<w> 4 al<w> !
-120.3	4 al<w> . r<w> 4 al<w> ! $ 9 ​ 4 al<w> !
-120.4	4 al<w> . r<w> 4 al<w> ! $ 9 ​ 4 al<w> !
+120.1	taxi<w> @
+120.2	taxi<w> @
+120.3	taxi<w> @ at @
+120.4	taxi<w> @ at @
 121
-121.1	é<w> ( ) K : em em !
-121.2	é<w> ( ) K $ em em !
-121.3	é<w> ( ) K $ em 0 Â $ é ) K étudi !
-121.4	é<w> ( ) K $ em 0 Â $ é ) K at !
+121.1	J $
+121.2	J $
+121.3	at is $
+121.4	at is $
 122
-122.1	a ⊂<w> H<w> ù K up<w> 1 & ou<w> H<w> ù K up<w> J . 4 , le<w> 5<w> !
-122.2	a ⊂<w> H<w> ù K up<w> 1 & ou<w> H<w> ù K up<w> J . 4 , le<w> 5<w> !
-122.3	a ⊂<w> H<w> ù K up<w> 1 & ou<w> H<w> ù K up<w> J . 4 , le<w> 5<w> !
-122.4	a ⊂<w> H<w> ù K up<w> 1 & ou<w> H<w> ù K up<w> J . 4 , le<w> 5<w> !
+122.1	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+122.2	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+122.3	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+122.4	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
 123
-123.1	$ p ) ê Z r ( Q ) L<w> !
-123.2	$ p ) ê Z r ( P Q ) L<w> !
-123.3	$ p ) ê Z r ( P Q ) L<w> -
-123.4	$ p ) ê Z r ( Q ) L<w> D<w> !
+123.1	J that<w> at on the boys<w> ?
+123.2	J that<w> at on the boys<w> ?
+123.3	J that<w> at on the boys<w> ?
+123.4	J that<w> at on the boys<w> ?
 124
-124.1	2 6 ç ) ab , Ã<w> de<w> de<w> om<w> ass !
-124.2	2 6 ç ) ab , Ã<w> de<w> de<w> ement<w> ) K r<w> é ) K , r<w> eux<w> -
-124.3	2 6 ç ) ab , Ã<w> de<w> de<w> ement<w> ) K r<w> é ) K , r<w> p ) K , r<w> eux<w> -
-124.4	2 6 ç ) ab , Ã<w> de<w> de<w> ement<w> ) K r<w> é ) K r<w> eux<w> 1 ) K ç ) K , r<w> eux<w> -
+124.1	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+124.2	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+124.3	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+124.4	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
 125
-125.1	tro . & ing<w> ) K apo ) K ill !
-125.2	tro . & ing<w> ) K apo ) K apo !
-125.3	tro . & ing<w> ) K apo ) K apo !
-125.4	tro . & ing<w> ) K apo ) K , B<w> !
+125.1	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+125.2	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+125.3	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+125.4	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
 126
-126.1	a . & ‽<w> T<w> ) K W C<w> !
-126.2	a . & ‽<w> T<w> ) K W C<w> !
-126.3	a . & ‽<w> T<w> ) K W C<w> ) K ne<w> !
-126.4	a . & ‽<w> tre<w> ) K W C<w> ) K ne<w> !
+126.1	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+126.2	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+126.3	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+126.4	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
 127
-127.1	!
-127.2	$ p ) K apo r $ 9 ​ si<w> !
-127.3	$ p ) K apo r $ 9 ​ si<w> ) S !
-127.4	$ p ) K apo r $ 9 ​ si<w> ) S 5 !
+127.1	taxi<w> @
+127.2	taxi<w> @
+127.3	on @
+127.4	on @
 128
-128.1	$ p ) 9 I ch ) L<w> r $ p ) L<w> !
-128.2	$ p ) 9 I ch ) L<w> r $ p ) L<w> -
-128.3	$ p ) K I r $ p ) L<w> r $ p ) L<w> -
-128.4	$ p ) K I r $ p ) L<w> r $ p ) L<w> !
+128.1	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+128.2	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+128.3	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+128.4	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
 129
-129.1	. us<w> !
-129.2	. , ay<w> us<w> !
-129.3	. 5 us 1 , it V
-129.4	. 5 us 1 , it ement<w> 1 , it ement<w> 1 , it ement<w> ) K , it ement<w> 1 , it ement<w> -
+129.1	on tr @
+129.2	on tr @
+129.3	on tr at /
+129.4	on tr tr tr tr tr tr tr of<w> the ir<w> /
 130
-130.1	? us<w> !
-130.2	? us<w> , us<w> !
-130.3	? us<w> cr ) K À ez<w> ) K ez<w> -
-130.4	? us<w> , us<w> ) K À ez<w> ) K ez<w> -
+130.1	manger<w> afr tr the ir<w> /
+130.2	manger<w> afr tr the ir<w> /
+130.3	manger<w> afr tr the ir<w> /
+130.4	manger<w> afr tr the ir<w> /
 131
-131.1	é<w> ( ) ê : !
-131.2	é<w> ( ) 9 $ , mo r $ 9 ​ si<w> ) L<w> !
-131.3	é<w> ( ) 9 $ , mo r $ 9 ​ si<w> ) L<w> -
-131.4	é<w> ( ) 9 $ , mo r $ 9 ​ si<w> ) L<w> Â ⊂ -
+131.1	J $
+131.2	J $
+131.3	J $ ? 0 J ver -
+131.4	J $ ? 0 J ver -
 132
-132.1	r ( p ) S r $ ? W k<w> !
-132.2	r ( p ) S r $ ? W k<w> ) K W k<w> !
-132.3	r ( p ) S r $ ? W k<w> ) K W k<w> !
-132.4	r ( p ) S r $ ? W C<w> ) K W k<w> !
+132.1	on @
+132.2	on @
+132.3	on @
+132.4	on @
 133
-133.1	$ 9 ) S ) ( r $ é ) K , mo !
-133.2	$ 9 ) S ) ( r $ 9 ) K , mo !
-133.3	$ 9 ) S ) ( r $ 9 ​ ) to ) & em !
-133.4	$ 9 ) S ) ( r $ é ) K , mo 0 r $ 9 ) 8 5 !
+133.1	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+133.2	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+133.3	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+133.4	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
 134
-134.1	l<w> se<w> . S<w> ) $<w> ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) O em em !
-134.2	l<w> se<w> . S<w> ) $<w> ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) O em em !
-134.3	l<w> se<w> . S<w> ) $<w> ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) O em em !
-134.4	l<w> se<w> . S<w> ) $<w> ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) to ) O em em 0 $ ? , t st 1 , !
+134.1	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+134.2	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+134.3	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+134.4	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
 135
-135.1	. ù K plea ) K í om<w> ass -
-135.2	. ù K plea ) K í om<w> 7<w> !
-135.3	. ù K plea ) K í om<w> 7<w> om<w> -
-135.4	. ù K plea ) K í om<w> 7<w> -
+135.1	/
+135.2	on /
+135.3	on go<w> J ver on the boys<w> -
+135.4	on go<w> J ver on the boys<w> -
 136
-136.1	$ 9 ) K &<w> !
-136.2	$ 9 ) K &<w> ) $<w> w<w> !
-136.3	$ 9 ) K &<w> ) $<w> s 5 !
-136.4	$ L ther<w> ) K apo ) K &<w> !
+136.1	$
+136.2	taxi<w> $
+136.3	tr tr tr the ; . ‽ ; tr tr tr ; .
+136.4	tr tr tr the ; . ‽ ; tr tr tr ; .
 137
-137.1	z<w> 6 b ) & pu 1 & gs<w> . ç ) $<w> 2 6 C<w> -
-137.2	z<w> 6 b ) & pu 1 & gs<w> . ç ) $<w> 2 6 C<w> -
-137.3	z<w> 6 b ) & pu 1 & gs<w> . ç ) $<w> 2 6 C<w> -
-137.4	z<w> 6 b ) & pu 1 & gs<w> . ç ) $<w> 2 6 C<w> -
+137.1	taxi<w> @ at @
+137.2	taxi<w> @ at @
+137.3	go<w> at @ @ 9 ​ 0 J that<w> go<w> at on manger<w> afr /
+137.4	go<w> at @ @ 9 ​ 0 J that<w> go<w> at on manger<w> afr /
 138
-138.1	@ .<w> ) K .<w> h<w> k<w> -
-138.2	U A &<w> ) K h<w> k<w> -
-138.3	U A &<w> ) K h<w> k<w> -
-138.4	@ .<w> ) K .<w> h<w> k<w> h<w> k<w> -
+138.1	J that<w> vo nei sav /
+138.2	J that<w> vo nei sav /
+138.3	J that<w> vo nei sav /
+138.4	J that<w> vo nei sav /
 139
-139.1	r ( P si<w> ) L<w> -
-139.2	r ( P si<w> ) L<w> !
-139.3	r ( P si<w> ) L<w> U -
-139.4	r ( P si<w> ) L<w> ) L<w> -
+139.1	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+139.2	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+139.3	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+139.4	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
 140
-140.1	l<w> se<w> . ‽ le<w> r $ 9 ​ ‽ ⊂ !
-140.2	l<w> se<w> . ‽ le<w> r $ 9 ​ ‽ ⊂ !
-140.3	l<w> se<w> . ‽ le<w> r $ 9 ​ ‽ ⊂ r $ 9 ​ ‽ ⊂ !
-140.4	l<w> se<w> . ‽ le<w> r $ 9 ​ ‽ ⊂ r $ 9 ​ ‽ ⊂ !
+140.1	taxi<w> /
+140.2	is at /
+140.3	is at /
+140.4	taxi<w> is at $
 141
-141.1	) K ec<w> !
-141.2	a ⊂ 1 & ec<w> e ​ ec<w> ) K Â ex ) K Â ⊂ & ev -
-141.3	a ⊂ 1 & ec<w> e ​ ec<w> ) K Â ex ) K Â ⊂ & ev -
-141.4	a ⊂ 1 & ec<w> e ​ ec<w> ) K Â ex ) K Â ⊂ & T<w> -
+141.1	sav is the ir<w> on the afr /
+141.2	sav is the ir<w> on the afr /
+141.3	sav is the ir<w> on the afr /
+141.4	sav is the ir<w> on the afr /
 142
-142.1	. U w<w> ) ê , a<w> ) ê our !
-142.2	. U w<w> ) ê , a<w> ) ê ( D<w> !
-142.3	. U w<w> ) ê , a<w> ) ê ( D<w> ) K , ‽<w> ch<w> -
-142.4	E / é ) K , a<w> ) ê ( D<w> ) K , ‽<w> ch<w> ) $<w> w<w> !
+142.1	at is on the ir<w> /
+142.2	at is on the ir<w> @
+142.3	at is on the ir<w> @
+142.4	at is on the ir<w> on tr tr tr tr tr the afr /
 143
-143.1	? us<w> !
-143.2	& us<w> . le<w> ) $<w> ) ê , mo !
-143.3	& us<w> . le<w> ) $<w> ) $<w> ) ê , mo !
-143.4	& us<w> . le<w> ) $<w> ) $<w> ) $<w> ) ê , mo !
+143.1	on the afr /
+143.2	on the afr /
+143.3	on the afr /
+143.4	on the afr /
 144
-144.1	car ? la<w> 1 v<w> ù K la<w> 1 5 !
-144.2	car ? la<w> 1 v<w> ù K la<w> 1 5 !
-144.3	car H / K la<w> 1 H<w> ù 9 fo !
-144.4	car H / K la<w> 1 H<w> ù 9 you<w> 5 !
+144.1	taxi<w> is @ at @
+144.2	taxi<w> at @ at @
+144.3	taxi<w> at @ at @
+144.4	taxi<w> is @ @ 9 ​
 145
-145.1	. se<w> se<w> !
-145.2	. se<w> se<w> -
-145.3	. se<w> se<w> ) 8 w<w> -
-145.4	. se<w> se<w> ) S w<w> -
+145.1	at is b Dé ici<w> sav /
+145.2	at is b Dé ici<w> sav /
+145.3	at is b Dé ici<w> sav /
+145.4	at is b Dé ici<w> sav /
 146
-146.1	T p ) K Â em !
-146.2	T H / ê ( r $ p ) K you<w> !
-146.3	T H / ê ( r $ p ​ ç ) K ps<w> !
-146.4	T H / ê ( r $ p ​ si<w> ) K ps<w> !
+146.1	taxi<w> @
+146.2	taxi<w> @
+146.3	taxi<w> - J that<w> at on the boys<w> - tr tr manger<w> afr -
+146.4	taxi<w> - J that<w> at on the boys<w> - tr tr manger<w> afr -
 147
-147.1	Ô A ( ç ) $<w> r $ p ) K u<w> 1 ( -
-147.2	Ô A ( ç ) $<w> r $ k ​ ç ) K S<w> !
-147.3	Ô A ( ç ) $<w> r $ k ​ ç ) K S<w> ! m
-147.4	Ô A ( ç ) $<w> r $ k ​ ç ) K S<w> om<w> 7<w> !
+147.1	on at $
+147.2	on at $
+147.3	on the ir<w> /
+147.4	on the ir<w> /
 148
-148.1	( P pu 1 , in<w> !
-148.2	2 . ac ) K in<w> C 9<w> !
-148.3	2 . ac ) K in<w> C 9<w> !
-148.4	2 . ac ) K in<w> C w<w> !
+148.1	on at @
+148.2	on at @
+148.3	is at @
+148.4	is at @
 149
-149.1	I think<w> e ​ si<w> ) S a ) K la<w> 1 à -
-149.2	I think<w> e ​ si<w> ) S a ) K la<w> 1 à -
-149.3	I think<w> e ​ si<w> ) S a ) K la<w> 1 à -
-149.4	I think<w> e ​ si<w> ) S a ) K la<w> 1 à -
+149.1	tres<w> is b filles<w> ici<w> the afr /
+149.2	tres<w> is b filles<w> ici<w> the afr /
+149.3	tres<w> is b filles<w> ici<w> the afr /
+149.4	tres<w> is b filles<w> ici<w> the afr /
 150
-150.1	er ) K G plea ) K ac -
-150.2	er ) K G plea ) $<w> w<w> !
-150.3	er ) K G plea ) K ac !
-150.4	er ) K G plea ) $<w> w<w> -
+150.1	at is /
+150.2	at is /
+150.3	at is /
+150.4	at is /
 151
-151.1	? us<w> !
-151.2	t us<w> !
-151.3	5 ? T co ) S !
-151.4	? us<w> ! m H / K re !
+151.1	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+151.2	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+151.3	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+151.4	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
 152
-152.1	é<w> x $ p ) S &<w> em !
-152.2	é<w> 5 $ p ) S &<w> em !
-152.3	é<w> x $ p ) K &<w> em !
-152.4	é<w> x $ p ) S &<w> h<w> C<w> !
+152.1	at is $
+152.2	at is $
+152.3	at is $
+152.4	on manger<w> boys<w> go<w> tr the ir<w> ici<w> the boys<w> go<w> tr the boys<w> go<w> tr manger<w> boys<w> /
 153
-153.1	. À , ‽<w> T<w> ) K fo -
-153.2	. À , ‽<w> T<w> ) K , ‽<w> go -
-153.3	À R ) K ‽<w> 1 & ‽<w> 1 & ‽<w> our ? ez<w> -
-153.4	À R ) K ‽<w> 1 & ‽<w> 1 & ‽<w> our ? ez<w> -
+153.1	J cher any<w> at /
+153.2	J cher any<w> at /
+153.3	J cher any<w> at /
+153.4	J cher any<w> at /
 154
-154.1	? us<w> !
-154.2	N<w> us<w> !
-154.3	? us<w> ! m
-154.4	? us<w> ! a A ( ) ê I ain<w> -
+154.1	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+154.2	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+154.3	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+154.4	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
 155
-155.1	r à . , ‽<w> te<w> ) K pu 1 , ‽<w> 1 om<w> ass !
-155.2	r à . , ‽<w> te<w> ) K , ‽<w> C<w> 1 à . W C<w> à ? W k<w> !
-155.3	r à . , ‽<w> te<w> ) K , ‽<w> C<w> 1 à . W C<w> à ? W k<w> !
-155.4	r à . , ‽<w> te<w> ) K , ‽<w> C<w> 1 à . W C<w> à ? W k<w> ! m
+155.1	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+155.2	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+155.3	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+155.4	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
 156
-156.1	? us<w> !
-156.2	? us<w> ! m
-156.3	us<w> . I ch ) L<w> ) L<w> -
-156.4	us<w> . I ch ) L<w> D<w> ) L<w> -
+156.1	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+156.2	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+156.3	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+156.4	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
 157
-157.1	a ⊂<w> H<w> A ç ) $<w> & -
-157.2	a ⊂<w> H<w> A ç ) $<w> & $<w> A ter<w> -
-157.3	a ⊂<w> H<w> A ç ) $<w> & H<w> v ? ter<w> -
-157.4	a ⊂<w> H<w> A ç ) $<w> & H<w> v ? ter<w> -
+157.1	J @ at @
+157.2	J @ at @
+157.3	J @ at @
+157.4	J @ at @
 158
-158.1	Ô ? & ‽<w> C<w> ) K , ‽<w> C<w> 4 , ‽<w> C<w> !
-158.2	Ô ? & ‽<w> C<w> ) K , ‽<w> C<w> 4 , ‽<w> C<w> ! m
-158.3	Ô ? & ‽<w> C<w> ) K , ‽<w> C<w> 4 , ‽<w> C<w> ! m
-158.4	Ô ? & ‽<w> C<w> ) K , ‽<w> C<w> 4 , ‽<w> C<w> r $ d em em -
+158.1	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+158.2	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+158.3	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+158.4	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
 159
-159.1	-
-159.2	à . I ch -
-159.3	m . I ch -
-159.4	m A I ch -
+159.1	at is the man go<w> ?
+159.2	at is the man go<w> ?
+159.3	at is the man go<w> ?
+159.4	at is the man go<w> ?
 160
-160.1	$ k ​ si<w> ) to ) to ) K ill !
-160.2	$ k ​ si<w> ) to ) to ) K ill ! m
-160.3	$ k ​ si<w> ) to ) to ) to ) K ill !
-160.4	$ k ​ si<w> ) to ) to ) K ill ! ter<w> ? 4 ter<w> !
+160.1	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+160.2	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+160.3	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+160.4	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
 161
-161.1	2 6 À , ‽<w> te<w> ) K ill !
-161.2	2 6 À , ‽<w> te<w> ) K , ‽<w> te<w> !
-161.3	2 6 À , ‽<w> te<w> ) K , ‽<w> ais ) K fo !
-161.4	2 6 À , ‽<w> te<w> ) K , ‽<w> i ) K fo !
+161.1	on /
+161.2	on /
+161.3	J ver on the boys<w> - tr tr the boys<w> - tr tr manger<w> boys<w> $
+161.4	J ver on the boys<w> - tr tr the boys<w> - tr tr manger<w> boys<w> $
 162
-162.1	? us<w> !
-162.2	? us<w> !
-162.3	, us<w> ? I ch ) K ill !
-162.4	, us<w> ? I ch ) K ill !
+162.1	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+162.2	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+162.3	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+162.4	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
 163
-163.1	U . &<w> h<w> C<w> . ce<w> de<w> om<w> ass -
-163.2	U . &<w> h<w> C<w> . ce<w> de<w> om<w> ass -
-163.3	U . &<w> h<w> C<w> . ce<w> de<w> eux<w> C our -
-163.4	U . &<w> h<w> C<w> . ce<w> de<w> eux<w> C our -
+163.1	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+163.2	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+163.3	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+163.4	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
 164
-164.1	? us<w> !
-164.2	t us<w> !
-164.3	& us<w> . ) K , vraiment<w> 1 , ‽<w> us<w> !
-164.4	& us<w> . ) K , vraiment<w> 1 , ‽<w> us<w> !
+164.1	manger<w> afr /
+164.2	manger<w> afr /
+164.3	manger<w> afr go<w> J any<w> /
+164.4	manger<w> afr go<w> J any<w> /
 165
-165.1	& ten ? ç ) to ) K ill as<w> ) K ill ) K , it ) K apo ) K , it ) S Ô 2 co -
-165.2	& ten ? ç ) to ) K ill as<w> ) K ill ) K , it ) K apo ) K , it ) S Ô 2 6 C<w> -
-165.3	& ten ? ç ) to ) K ill as<w> ) K ill ) K , it ) K apo ) K , it ) S Ô ) K ill -
-165.4	& ten ? ç ) to ) K ill as<w> ) K ill ) K , it ) K apo ) K , it ) S Ô ) K Â il<w> -
+165.1	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+165.2	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+165.3	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+165.4	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
 166
-166.1	r ( 9 ) K ces<w> r $ p ) K , C<w> r $ p ​ si<w> ) 8 !
-166.2	r ( 9 ) K ces<w> r $ p ) K , C<w> r $ p ​ si<w> ) he<w> v<w> -
-166.3	r ( 9 ) K ces<w> r $ p ) K , C<w> r $ p ​ si<w> ) é !
-166.4	r ( 9 ) K 4 & r $ ? W C<w> r $ ? W C<w> ) & we<w> !
+166.1	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+166.2	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+166.3	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+166.4	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
 167
-167.1	? us<w> !
-167.2	t us<w> !
-167.3	? us<w> ! es H<w> ? W ) K ill v ? G ill ) 9 , it ch<w> -
-167.4	? us<w> ! es H<w> ? W ) K ill v ? G ill ) 9 , it ch<w> -
+167.1	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+167.2	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+167.3	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+167.4	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
 168
-168.1	ù e ​ ) 0<w> ‽ ⊂ ‽ ⊂ ‽ ou<w> ) K ‽ ⊂ !
-168.2	ù e ​ ) 0<w> ‽ ⊂ ‽ ⊂ ‽ ou<w> ) K ‽ â ) tr de<w> om<w> -
-168.3	ù e ​ ) 0<w> ‽ ⊂ ‽ ⊂ ‽ ou<w> ) K ‽ â ) tr de<w> om<w> -
-168.4	ù e ​ ) 0<w> ‽ ⊂ ‽ ⊂ ‽ ou<w> ) K ‽ â ) tr de<w> om<w> -
+168.1	on go<w> any<w> ‽ ‽ /
+168.2	on go<w> any<w> ‽ ‽ /
+168.3	on go<w> any<w> ‽ on b boys<w> /
+168.4	on go<w> any<w> ‽ on b boys<w> /
 169
-169.1	7 e ) S r ( 9 ) S D<w> ) L<w> I elle<w> -
-169.2	7 e ) S r ( 9 ) S D<w> ) L<w> I plea -
-169.3	7 e ) S r ( 9 ) S D<w> ) K w<w> ) L<w> -
-169.4	7 e ) S r ( 9 ) S D<w> ) L<w> I e ) L<w> -
+169.1	/
+169.2	is at - importe<w> at go<w> tres<w> is go<w> for the ir<w> /
+169.3	is at - importe<w> at go<w> tres<w> is go<w> for the ir<w> /
+169.4	is at - importe<w> at go<w> tres<w> is go<w> for the ir<w> /
 170
-170.1	ren . ) K la<w> 1 & ag !
-170.2	ren . ) K la<w> 1 & ag !
-170.3	ren . ) K la<w> 1 & ag ! m
-170.4	ren . ) K la<w> 1 & ag ! m
+170.1	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+170.2	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+170.3	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+170.4	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
 171
-171.1	é<w> ( ) 9 , mo r $ 9 ​ , mo !
-171.2	é<w> ( ) 9 , mo r $ 9 ​ , mo r $ 9 ​ , mo C ( !
-171.3	é<w> ( ) 9 , mo r $ 9 ​ , mo r $ k ​ ç ) 9 , mo !
-171.4	é<w> ( ) 9 , mo r $ 9 ​ , mo r $ k ​ ç ) 9 de<w> ) K , mo !
+171.1	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+171.2	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+171.3	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+171.4	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
 172
-172.1	$ p ) K il<w> Ô ( S Ô $ p ) K U -
-172.2	$ p ) K il<w> Ô ( S Ô $ p ) K U !
-172.3	$ p ) K il<w> Ô ( S Ô $ p ) K U - m
-172.4	$ p ) K il<w> Ô ( S Ô $ p ) K U 0 r $ k ​ ç ) K étudi -
+172.1	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+172.2	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+172.3	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+172.4	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
 173
-173.1	‽<w> !
-173.2	‽<w> U A ​ ç ) S & ‽<w> T<w> ) S 5 !
-173.3	‽<w> U A ​ ç ) S & ‽<w> T<w> ) S 5 !
-173.4	‽<w> U A ​ ç ) S & ‽<w> te<w> Q ) K ill !
+173.1	any<w> @ at @
+173.2	any<w> @ at @
+173.3	taxi<w> @ at @
+173.4	taxi<w> @ at @
 174
-174.1	‽<w> U . , it pu 1 H<w> Q ) K , it H<w> Q ) K , it eux<w> !
-174.2	‽<w> U . , it pu 1 H<w> Q ) K , it H<w> Q ) K , it eux<w> !
-174.3	‽<w> U . , it pu 1 H<w> Q ) K , it H<w> Q ) K , it eux<w> 1 , it eux<w> !
-174.4	‽<w> U . , it pu 1 H<w> Q ) K , it H<w> Q ) K , it eux<w> 1 , it eux<w> !
+174.1	any<w> @ at @
+174.2	taxi<w> @ at @
+174.3	taxi<w> @ at @
+174.4	taxi<w> @ at @
 175
-175.1	8 À é ) A<w> A<w> ) A<w> v
-175.2	8 À Q ) A<w> A<w> ) A<w> v
-175.3	8 À é ) A<w> ain<w> ) A<w> v
-175.4	8 À Q ) A<w> ain<w> ) A<w> v
+175.1	tres<w> is b bi ici<w> the thought<w> /
+175.2	tres<w> is b bi ici<w> the thought<w> /
+175.3	tres<w> is b bi ici<w> the leil<w> /
+175.4	tres<w> is b bi ici<w> the leil<w> go<w> at /
 176
-176.1	$ p ) K apo r $ p ) K ill !
-176.2	$ p ) K apo r $ p ) K ill !
-176.3	$ p ) K apo r $ ? À W C<w> !
-176.4	$ p ) K apo r $ p ) K W h<w> C<w> !
+176.1	taxi<w> - ans<w> at /
+176.2	taxi<w> - ans<w> at /
+176.3	taxi<w> - at is /
+176.4	taxi<w> - at is /
 177
-177.1	ag 1 & ag k<w> . ) ê I pu !
-177.2	ag 1 & ag k<w> . ) ê I pu !
-177.3	ag 1 & ag k<w> . ) ê I eli !
-177.4	ag 1 & ag k<w> . ) ê I min ) ê & we<w> i ) $<w> ) $<w> ) $<w> ) $<w> ) K ill -
+177.1	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+177.2	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+177.3	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+177.4	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
 178
-178.1	r ( Q ) K , it om<w> ass !
-178.2	r ( Q ) K , it om<w> ass !
-178.3	r ( Q ) K , it om<w> ass !
-178.4	r ( Q ) K , it om<w> ass !
+178.1	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+178.2	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+178.3	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+178.4	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
 179
-179.1	C<w> . our ? ‽ le<w> !
-179.2	& C<w> ? le<w> ) K ‽ ⊂ !
-179.3	& C<w> ? le<w> ) K ‽ le<w> !
-179.4	& C<w> ? le<w> ) K ‽ ⊂ ! m
+179.1	J that<w> tr at @
+179.2	J that<w> tr at @
+179.3	J that<w> tr at @
+179.4	J that<w> tr at @
 180
-180.1	. us<w> !
-180.2	N<w> us<w> !
-180.3	? us<w> !
-180.4	N<w> us<w> -
+180.1	on sav /
+180.2	on the man - go<w> the run<w> tr manger<w> -
+180.3	on the man - go<w> the run<w> tr manger<w> -
+180.4	on the man - go<w> the run<w> tr manger<w> -
 181
-181.1	plus<w> e ) K il<w> ) ab our !
-181.2	plus<w> e ) K il<w> ) ab our ! m
-181.3	plus<w> e ) K il<w> ) ab our ! m à H K G ç ) nous<w> -
-181.4	plus<w> e ) K il<w> ) ab our ! m à H K G ç ) nous<w> - m
+181.1	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+181.2	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+181.3	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+181.4	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
 182
-182.1	é<w> !
-182.2	é<w> ) K $ p ) K W h<w> C<w> !
-182.3	é<w> ) K $ p ) K W h<w> C<w> !
-182.4	é<w> ) K $ p ) K W k<w> 0 r $ 9 ​ ) K re ) $<w> ) $<w> ) K ill !
+182.1	J ?
+182.2	J ?
+182.3	at is $
+182.4	at is ; .
 183
-183.1	8 our R ) S 4<w> ) K ill !
-183.2	8 our R ) S 4<w> à e ) S w<w> !
-183.3	8 our R ) S 4<w> à e ) K ill !
-183.4	8 our R ) S 4<w> à e ) K ill ! m
+183.1	taxi<w> $
+183.2	taxi<w> $
+183.3	taxi<w> /
+183.4	taxi<w> /
 184
-184.1	2 ? Ã<w> !<w> Z ) 9 ​ !<w> ) S a ) K Â p ) 9 ​ q<w> -
-184.2	2 ? Ã<w> !<w> Z ) 9 ​ !<w> ) S a ) 9 ​ !<w> ) S a ) 9 co -
-184.3	2 ? Ã<w> !<w> Z ) 9 ​ !<w> ) S a ) 9 ​ !<w> ) S a ) K ex -
-184.4	2 ? Ã<w> !<w> Z ) 9 ​ !<w> ) S a ) 9 ​ !<w> ) S a ) 9 ​ q<w> -
+184.1	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+184.2	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+184.3	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+184.4	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
 185
-185.1	? us<w> !
-185.2	? us<w> ) K , it it D<w> ) K , it v ù K , it 5 us<w> !
-185.3	? us<w> ) K , it it D<w> ) K , it v ù K , it v ù 8 5 !
-185.4	? us<w> ) K , it it D<w> ) K , it v ù K , it v ù K ill !
+185.1	on tr at /
+185.2	on tr at /
+185.3	on the afr /
+185.4	on tr tr tr tr J that<w> tr tr tr tr à<w> go<w>
 186
-186.1	tro . & ing<w> ) K apo ) K 3<w> ) K 3<w> ) K 3<w> ) K 3<w> ) & 3<w> !
-186.2	tro . & ing<w> ) K apo ) K 3<w> ) K 3<w> ) K 3<w> ) K 3<w> ) & 3<w> !
-186.3	tro . & ing<w> ) K apo ) K 3<w> ) K 3<w> ) K 3<w> ) K 3<w> ) & 3<w> !
-186.4	tro . & ing<w> ) K apo ) K 3<w> ) K 3<w> ) K 3<w> ) K 3<w> ) & 3<w> !
+186.1	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+186.2	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+186.3	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+186.4	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
 187
-187.1	a A ( ç ) 9 pu 1 es Mar !
-187.2	a A ( ç ) 9 pu 1 es Mar !
-187.3	a A ( ç ) 9 pu 1 es Mar ! m
-187.4	a A ( ç ) 9 pu 1 es Mar ! m
+187.1	tres<w> is on eba<w> boys<w> @
+187.2	tres<w> is on eba<w> boys<w> @
+187.3	tres<w> is on eba<w> boys<w> @
+187.4	tres<w> is on eba<w> boys<w> @
 188
-188.1	2 . ) I ch ) K I ch em !
-188.2	2 . ) I ch ) K I ch r $ ? &<w> ) L<w> -
-188.3	2 . ) I ch ) K I ch r $ ? &<w> ) L<w> -
-188.4	2 . ) I ch ) K I ch r $ ? &<w> ) L<w> !
+188.1	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+188.2	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+188.3	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+188.4	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
 189
-189.1	!
-189.2	é !
-189.3	é , mo !
-189.4	é ) K : em em !
+189.1	at is $
+189.2	at is $
+189.3	at is $
+189.4	on tr tr tr J ver vo the ir<w> ; on the ir<w> /
 190
-190.1	et<w> ) K , us<w> !
-190.2	et<w> , us<w> ? plea ) K our !
-190.3	F , us<w> ? plea ) K our !
-190.4	F , us<w> ? plea ) K de<w> om<w> 7<w> !
+190.1	$
+190.2	$
+190.3	$ ? ‽ ⊂ tr ‽ ‽ tr tr ‽ tr tr tr tr tr b , /
+190.4	$ ? ‽ ⊂ tr ‽ ‽ tr tr ‽ tr tr tr tr tr b , /
 191
-191.1	é<w> ( A r $ p ) S r $ ? W k<w> !
-191.2	é<w> ( A r $ p ) S r $ ? W k<w> ! m
-191.3	é<w> ( A r $ p ) S r $ ? W k<w> r $ 9 ​ ) S -
-191.4	é<w> ( A r $ p ) S r $ ? W k<w> r $ p ) S s ter<w> !
+191.1	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+191.2	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+191.3	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+191.4	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
 192
-192.1	se<w> . & se<w> 1 & se<w> !
-192.2	l<w> se<w> ? , vi 1 & se<w> !
-192.3	l<w> se<w> ? , vi 1 & se<w> !
-192.4	l<w> se<w> ? , vi 1 se<w> ) ê Z a ) ê Y a ) ê Y ) $<w> -
+192.1	at is on the boys<w> tr the ir<w> /
+192.2	at is on the boys<w> tr the ir<w> /
+192.3	at is on the boys<w> tr the ir<w> /
+192.4	at is on the boys<w> tr the ir<w> /
 193
-193.1	$ é ) $<w> ) $<w> ) ê ( !
-193.2	$ é ) $<w> ) $<w> ) K ill !
-193.3	$ 9 ) $<w> ) $<w> ) $<w> ) K , ‽<w> T<w> ) é ) é !
-193.4	$ 9 ) $<w> ) $<w> ) $<w> ) K , ‽<w> T<w> ) é ) é 4<w> !
+193.1	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+193.2	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+193.3	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+193.4	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
 194
-194.1	r ( P ç ) S er<w> ) K , ‽<w> C<w> !
-194.2	r ( P ç ) S er<w> ) K , ‽<w> C<w> !
-194.3	r ( P ç ) S er<w> ) K , ‽<w> C<w> ! m
-194.4	r ( P ç ) S er<w> ) K , ‽<w> C<w> ) K , ‽<w> C<w> ) K , ‽<w> C<w> 1 ) K ill 0 R our . R<w> n<w> ) K you<w> -
+194.1	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+194.2	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+194.3	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+194.4	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
 195
-195.1	ê & se<w> . le<w> ) K on<w> M i ) 8 M ( -
-195.2	ê & se<w> . le<w> ) K le<w> M i ) 9 ) K -
-195.3	ê & se<w> . le<w> ) K on<w> M i ) 8 M 5 !
-195.4	ê & se<w> . le<w> ) K on<w> M i ) K fait<w> ) K -
+195.1	at is /
+195.2	at is /
+195.3	at is /
+195.4	taxi<w> is at /
 196
-196.1	$ p ) 9 h go 0 r $ p ) K , ay<w> C<w> !
-196.2	$ p ) 9 h go 0 r $ p ) K , il<w> C<w> !
-196.3	$ p ) 9 h go 0 r $ p ) K , il<w> C<w> !
-196.4	$ p ) 9 h go 0 r $ p ) K , ay<w> C<w> ! m
+196.1	on tr tr tr tr tr tr tr the boys<w> ; @
+196.2	on tr tr tr tr tr tr tr the boys<w> ; @
+196.3	on tr tr tr tr tr tr tr the boys<w> ; @
+196.4	on tr tr tr tr tr tr tr the boys<w> ; @
 197
-197.1	se<w> . ‽ le<w> 0 r $ 9 ​ ‽ ⊂ !
-197.2	se<w> . ‽ le<w> 0 r $ 9 ​ ‽ ⊂ 0 $ ? ‽ ⊂ ) $<w> 4<w> !
-197.3	se<w> . ‽ ⊂ 0 r $ 9 ​ ‽ ⊂ 0 $ ? ‽ ⊂ ) $<w> 4<w> !
-197.4	se<w> . ‽ ⊂ 0 r $ 9 ​ ‽ ⊂ 0 $ ? ‽ ⊂ ) $<w> 4<w> !
+197.1	at is ‽ ‽ $
+197.2	at is ‽ ‽ - tr at /
+197.3	at is ‽ ‽ - tr at /
+197.4	at is ‽ ‽ - tr at /
 198
-198.1	F ) 8 ( f T 3<w> 5
-198.2	can<w> à . ç ) $<w> 5 T 3<w> w<w> s ( -
-198.3	can<w> à . ç ) $<w> 5 T 3<w> w<w> ) K w<w> -
-198.4	can<w> à . ç ) $<w> 5 T 3<w> ) $<w> ) $<w> w<w> -
+198.1	afr /
+198.2	afr /
+198.3	man /
+198.4	b man - go<w> J dîner<w> at ver vo ver vo ver vo ver vo ver /
 199
-199.1	r 2 ? ère<w> ) K ill ) K la<w> 1 ) 5 ) K ill !
-199.2	r 2 ? ère<w> ) K ill ) K la<w> 1 ) 5 ) K la<w> 1 ) to ) K ill !
-199.3	r 2 ? ère<w> ) K ill ) K la<w> 1 ) 5 ) K la<w> 1 ) 5 5 ? ac ) K ill -
-199.4	r 2 ? ère<w> ) K ill ) K la<w> 1 ) 5 ) K la<w> 1 ) 5 5 ? ac ) K , M<w> 1 ) K ill !
+199.1	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
+199.2	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
+199.3	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
+199.4	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
