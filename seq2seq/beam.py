@@ -2,6 +2,7 @@ import torch
 
 from itertools import count
 from queue import PriorityQueue
+import typing
 
 
 class BeamSearch(object):
@@ -54,6 +55,22 @@ class BeamSearch(object):
 
         return node
 
+    def get_n_best(self, n: int) -> typing.List['BeamSearchNode']:
+        n_best = []
+        merged = PriorityQueue()
+        for i in range(n):
+            for _ in range(self.final.qsize()):
+                node = self.final.get()
+                merged.put(node)
+
+            for _ in range(self.nodes.qsize()):
+                node = self.nodes.get()
+                merged.put(node)
+            node = merged.get()
+            node = (node[0], node[2])
+            n_best.append(node)
+        return n_best
+
     def prune(self):
         """ Removes all nodes but the beam_size best ones (lowest neg log prob) """
         nodes = PriorityQueue()
@@ -82,6 +99,9 @@ class BeamSearchNode(object):
         self.length = length
 
         self.search = search
+
+    def __hash__(self):
+        return self
 
     def eval(self, alpha=0.0):
         """ Returns score of sequence up to this node 

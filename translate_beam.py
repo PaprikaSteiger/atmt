@@ -20,6 +20,11 @@ def get_args():
     parser.add_argument('--seed', default=42, type=int, help='pseudo random number generator seed')
 
     # Add data arguments
+    parser.add_argument("--data-prefix",
+                        help="Prefix attached to file name to marke bpe",
+                        type=str,
+                        default=""
+                        )
     parser.add_argument('--data', default='assignments/03/prepared', help='path to data directory')
     parser.add_argument('--dicts', required=True, help='path to directory containing source and target dictionaries')
     parser.add_argument('--checkpoint-path', default='checkpoints_asg4/checkpoint_best.pt', help='path to the model file')
@@ -27,7 +32,7 @@ def get_args():
     parser.add_argument('--output', default='model_translations.txt', type=str,
                         help='path to the output file destination')
     parser.add_argument('--max-len', default=100, type=int, help='maximum length of generated sequence')
-
+    parser.add_argument('--nbest', default=0, type=int, help='number of translations created for each reference')
     # Add beam search arguments
     parser.add_argument('--beam-size', default=11, type=int, help='number of hypotheses expanded in beam search')
     # alpha hyperparameter for length normalization (described as lp in https://arxiv.org/pdf/1609.08144.pdf equation 14)
@@ -46,15 +51,15 @@ def main(args):
     utils.init_logging(args)
 
     # Load dictionaries
-    src_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.source_lang)))
+    src_dict = Dictionary.load(os.path.join(args.dicts, '{}dict.{:s}'.format(args.data_prefix, args.source_lang)))
     logging.info('Loaded a source dictionary ({:s}) with {:d} words'.format(args.source_lang, len(src_dict)))
-    tgt_dict = Dictionary.load(os.path.join(args.dicts, 'dict.{:s}'.format(args.target_lang)))
+    tgt_dict = Dictionary.load(os.path.join(args.dicts, '{}dict.{:s}'.format(args.data_prefix,args.target_lang)))
     logging.info('Loaded a target dictionary ({:s}) with {:d} words'.format(args.target_lang, len(tgt_dict)))
 
     # Load dataset
     test_dataset = Seq2SeqDataset(
-        src_file=os.path.join(args.data, 'test.{:s}'.format(args.source_lang)),
-        tgt_file=os.path.join(args.data, 'test.{:s}'.format(args.target_lang)),
+        src_file=os.path.join(args.data, '{}test_short.{:s}'.format(args.data_prefix, args.source_lang)),
+        tgt_file=os.path.join(args.data, '{}test_short.{:s}'.format(args.data_prefix, args.target_lang)),
         src_dict=src_dict, tgt_dict=tgt_dict)
 
     test_loader = torch.utils.data.DataLoader(test_dataset, num_workers=1, collate_fn=test_dataset.collater,
@@ -82,6 +87,9 @@ def main(args):
             # Compute the encoder output
             encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
             # __QUESTION 1: What is "go_slice" used for and what do its dimensions represent?
+            # go_slice tensor filled with id of EOS in target language with dimensions batch_sizex1.
+            # It's fed to the forward function of the decoder model as a target vector to generate the decoder output states at the first time step (for the batch).
+            # Furthermore, a part of the slice is passed on to the SearchBeamNod as part of the sequence.
             go_slice = \
                 torch.ones(sample['src_tokens'].shape[0], 1).fill_(tgt_dict.eos_idx).type_as(sample['src_tokens'])
             if args.cuda:
@@ -93,6 +101,9 @@ def main(args):
             decoder_out, _ = model.decoder(go_slice, encoder_out)
 
             # __QUESTION 2: Why do we keep one top candidate more than the beam size?
+            # I think because with the original model it could happen that the last word before EOS is an unknown token.
+            # The provided beam search algorithm would in such a case use the back off candidate and its probability.
+            # We set the number of candidates to beam size + 1 to assure that also for the last token a backoff exists.
             log_probs, next_candidates = torch.topk(torch.log(torch.softmax(decoder_out, dim=2)),
                                                     args.beam_size+1, dim=-1)
 
@@ -120,6 +131,8 @@ def main(args):
                 node = BeamSearchNode(searches[i], emb, lstm_out, final_hidden, final_cell,
                                       mask, torch.cat((go_slice[i], next_word)), log_p, 1)
                 # __QUESTION 3: Why do we add the node with a negative score?
+                # See also Question 5. BeamSearch.node is a PriorityQueque. When retrieving from such a queque the smallest itmes are retrieved first.
+                # By adding the node with the negative log probability as score we ensure that later on that the most probably node is retrieved.
                 searches[i].add(-node.eval(args.alpha), node)
 
         #import pdb;pdb.set_trace()
@@ -153,7 +166,7 @@ def main(args):
             # Create number of beam_size next nodes for every current node
             for i in range(log_probs.shape[0]):
                 for j in range(args.beam_size):
-
+                    # TODO: use j+1 as the ranking faktor k' from the text
                     best_candidate = next_candidates[i, :, j]
                     backoff_candidate = next_candidates[i, :, j+1]
                     best_log_p = log_probs[i, :, j]
@@ -169,6 +182,8 @@ def main(args):
 
                     # __QUESTION 4: How are "add" and "add_final" different? 
                     # What would happen if we did not make this distinction?
+                    # add_final assures that all beams have the same length which is required if we want to apply matrix caluclation for batch processing.
+                    # Besides that, add_final adds the nod to the final PriorityQueque as we need to keep track of the final nodes in particular (e.g. for masking).
 
                     # Store the node as final if EOS is generated
                     if next_word[-1] == tgt_dict.eos_idx:
@@ -191,38 +206,73 @@ def main(args):
             # #import pdb;pdb.set_trace()
             # __QUESTION 5: What happens internally when we prune our beams?
             # How do we know we always maintain the best sequences?
+            # the prune function relies on a feature of the class PriorityQueue. For this class the lowest value is always retrieved first.
+            # We assure that we read only the smallest, i.e. the most probable value, from the search beams that have not ended yet. After pruning the nodes attribute of the BeamSeachClass contains only nodes that represent an unfinished beam
+            # The nod stores the whole history of the beam. The log probs are added in every step. So when get_best is called the over all best nod is return and with it the whole beam
             for search in searches:
                 search.prune()
 
         # Segment into sentences
-        best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
-        decoded_batch = best_sents.numpy()
-        #import pdb;pdb.set_trace()
+        if not bool(args.nbest):
+            best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
+            decoded_batch = best_sents.numpy()
+            #import pdb;pdb.set_trace()
 
-        output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
+            output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
 
-        # __QUESTION 6: What is the purpose of this for loop?
-        temp = list()
-        for sent in output_sentences:
-            first_eos = np.where(sent == tgt_dict.eos_idx)[0]
-            if len(first_eos) > 0:
-                temp.append(sent[:first_eos[0]])
-            else:
-                temp.append(sent)
-        output_sentences = temp
+            # __QUESTION 6: What is the purpose of this for loop?
+            # The loop serves to just append the real tokes of this specific output sentence for each sentence in outputsentences.
+            # We masked all the sentences to have the same length, thus we need to make sure we don't output the mask token
+            temp = list()
+            for sent in output_sentences:
+                first_eos = np.where(sent == tgt_dict.eos_idx)[0]
+                if len(first_eos) > 0:
+                    temp.append(sent[:first_eos[0]])
+                else:
+                    temp.append(sent)
+            output_sentences = temp
 
-        # Convert arrays of indices into strings of words
-        output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
+            # Convert arrays of indices into strings of words
+            output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
+            # TODO: change all_hyps to be a list of n best sents
+            for ii, sent in enumerate(output_sentences):
+                all_hyps[int(sample['id'].data[ii])] = sent
+        else:
+            # TODO get n best for each reference
+            for ii, search in enumerate(searches):
+                all_hyps[int(sample['id'].data[ii])] = []
+                best_sents = torch.stack([node[1].sequence[1:].cpu() for node in search.get_n_best(args.nbest)])
+                decoded_batch = best_sents.numpy()
+                # import pdb;pdb.set_trace()
 
-        for ii, sent in enumerate(output_sentences):
-            all_hyps[int(sample['id'].data[ii])] = sent
+                output_sentences = [decoded_batch[row, :] for row in range(decoded_batch.shape[0])]
 
+                # __QUESTION 6: What is the purpose of this for loop?
+                temp = list()
+                for sent in output_sentences:
+                    first_eos = np.where(sent == tgt_dict.eos_idx)[0]
+                    if len(first_eos) > 0:
+                        temp.append(sent[:first_eos[0]])
+                    else:
+                        temp.append(sent)
+                output_sentences = temp
 
+                # Convert arrays of indices into strings of words
+                output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
+                for sent in output_sentences:
+                    all_hyps[int(sample['id'].data[ii])].append(sent)
     # Write to file
     if args.output is not None:
         with open(args.output, 'w') as out_file:
-            for sent_id in range(len(all_hyps.keys())):
-                out_file.write(all_hyps[sent_id] + '\n')
+            if not bool(args.nbest):
+                for sent_id in range(len(all_hyps.keys())):
+                    out_file.write(all_hyps[sent_id] + '\n')
+            else:
+                for sent_id in range(len(all_hyps.keys())):
+                    out_file.write(str(sent_id) + '\n')
+                    for c, sent in enumerate(all_hyps[sent_id]):
+                        out_file.write(f"{sent_id}.{c+1}\t" + all_hyps[sent_id][c] + '\n')
+
 
 
 if __name__ == '__main__':
