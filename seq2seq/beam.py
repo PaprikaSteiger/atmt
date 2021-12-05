@@ -6,7 +6,10 @@ import typing
 
 
 class BeamSearch(object):
-    """ Defines a beam search object for a single input sentence. """
+    """ Defines a beam search object for a single input sentence.
+        Elements of Queque have shape (score, counter, node)
+    """
+
     def __init__(self, beam_size, max_len, pad):
 
         self.beam_size = beam_size
@@ -58,14 +61,15 @@ class BeamSearch(object):
     def get_n_best(self, n: int) -> typing.List['BeamSearchNode']:
         n_best = []
         merged = PriorityQueue()
-        for i in range(n):
-            for _ in range(self.final.qsize()):
-                node = self.final.get()
-                merged.put(node)
+        for _ in range(self.final.qsize()):
+            node = self.final.get()
+            merged.put(node)
 
-            for _ in range(self.nodes.qsize()):
-                node = self.nodes.get()
-                merged.put(node)
+        for _ in range(self.nodes.qsize()):
+            node = self.nodes.get()
+            merged.put(node)
+        # retrieve n best
+        for i in range(n):
             node = merged.get()
             node = (node[0], node[2])
             n_best.append(node)
@@ -77,6 +81,13 @@ class BeamSearch(object):
         # Keep track of how many search paths are already finished (EOS)
         finished = self.final.qsize()
         for _ in range(self.beam_size-finished):
+            node = self.nodes.get()
+            nodes.put(node)
+        self.nodes = nodes
+
+    def prune_n_best(self):
+        nodes = PriorityQueue()
+        for _ in range(self.beam_size):
             node = self.nodes.get()
             nodes.put(node)
         self.nodes = nodes

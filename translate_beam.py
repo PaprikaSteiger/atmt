@@ -31,13 +31,15 @@ def get_args():
     parser.add_argument('--batch-size', default=None, type=int, help='maximum number of sentences in a batch')
     parser.add_argument('--output', default='model_translations.txt', type=str,
                         help='path to the output file destination')
-    parser.add_argument('--max-len', default=100, type=int, help='maximum length of generated sequence')
-    parser.add_argument('--nbest', default=0, type=int, help='number of translations created for each reference')
-    # Add beam search arguments
     parser.add_argument('--short-test', action='store_true', help='run short version of test set')
+    parser.add_argument('--max-len', default=100, type=int, help='maximum length of generated sequence')
+    # Add beam search arguments
+    parser.add_argument('--nbest', default=0, type=int, help='number of translations created for each reference')
+    parser.add_argument('--nbest-ranked', action='store_true', help='use special ranking technique')
     parser.add_argument('--beam-size', default=11, type=int, help='number of hypotheses expanded in beam search')
     # alpha hyperparameter for length normalization (described as lp in https://arxiv.org/pdf/1609.08144.pdf equation 14)
     parser.add_argument('--alpha', default=0.0, type=float, help='alpha for softer length normalization')
+    parser.add_argument('--gamma', default=1.0, type=float, help='ranking factor for nbest beamsearch')
 
     return parser.parse_args()
 
@@ -172,8 +174,11 @@ def main(args):
 
             # Create number of beam_size next nodes for every current node
             for i in range(log_probs.shape[0]):
+                all_nodes_this_sent = []
                 for j in range(args.beam_size):
+                    # implement special score calculation for ranking here
                     # TODO: use j+1 as the ranking faktor k' from the text
+                    # put new node back to nodes and use updated nodes for ranking?
                     best_candidate = next_candidates[i, :, j]
                     backoff_candidate = next_candidates[i, :, j+1]
                     best_log_p = log_probs[i, :, j]
@@ -201,24 +206,47 @@ def main(args):
                             )
                         search.add_final(-node.eval(args.alpha), node)
 
-                    # Add the node to current nodes for next iteration
                     else:
                         node = BeamSearchNode(
                             search, node.emb, node.lstm_out, node.final_hidden,
                             node.final_cell, node.mask, torch.cat((prev_words[i][0].view([1]),
-                            next_word)), node.logp + log_p, node.length + 1
-                            )
-                        search.add(-node.eval(args.alpha), node)
-
+                                                                   next_word)), node.logp + log_p, node.length + 1
+                        )
+                        all_nodes_this_sent.append((-node.eval(), node))
+                if args.nbest_ranked:
+                    # adjust score with rank
+                    sorted_nodes = sorted(all_nodes_this_sent, key=lambda n: n[0], reverse=True)
+                    nodes_to_add = []
+                    for c, node_tuple in enumerate(sorted_nodes, 1):
+                        node_value, node = node_tuple
+                        node_value = node_value - c * args.gamma
+                        new_node = BeamSearchNode(
+                            node.search, node.emb, node.lstm_out, node.final_hidden,
+                            node.final_cell, node.mask, node.sequence, node_value * (-1), node.length
+                        )
+                        nodes_to_add.append((node_value, new_node))
+                    nodes_to_add.sort(key=lambda n: n[0], reverse=True)
+                    all_nodes_this_sent = nodes_to_add
+                for value, node in all_nodes_this_sent:
+                    # Add the node to current nodes for next iteration
+                    search.add(value, node)
             # #import pdb;pdb.set_trace()
             # __QUESTION 5: What happens internally when we prune our beams?
             # How do we know we always maintain the best sequences?
-            # the prune function relies on a feature of the class PriorityQueue. For this class the lowest value is always retrieved first.
-            # We assure that we read only the smallest, i.e. the most probable value, from the search beams that have not ended yet. After pruning the nodes attribute of the BeamSeachClass contains only nodes that represent an unfinished beam
+            # the prune function relies on a feature of the class PriorityQueue. For this class the lowest value is always retrieved first and removed.
+            # We assure that we read only the smallest, i.e. the most probable values, from the search beams that have not ended yet. After pruning the nodes attribute of the BeamSeachClass contains only nodes that represent an unfinished beam, and it contains beamsize - finished nodes
             # The nod stores the whole history of the beam. The log probs are added in every step. So when get_best is called the over all best nod is return and with it the whole beam
+
             for search in searches:
                 search.prune()
-
+            # Todo: The paper mentions that they always keep number of beamsize nodes active, no matter how many have terminated already
+            # if not bool(args.nbest):
+            #     for search in searches:
+            #         search.prune()
+            # else:
+            #     for search in searches:
+            #         # keep beamsize number of beams, no matter how many finished
+            #         search.prune_n_best()
         # Segment into sentences
         if not bool(args.nbest):
             best_sents = torch.stack([search.get_best()[1].sequence[1:].cpu() for search in searches])
@@ -241,11 +269,10 @@ def main(args):
 
             # Convert arrays of indices into strings of words
             output_sentences = [tgt_dict.string(sent) for sent in output_sentences]
-            # TODO: change all_hyps to be a list of n best sents
             for ii, sent in enumerate(output_sentences):
                 all_hyps[int(sample['id'].data[ii])] = sent
         else:
-            # TODO get n best for each reference
+            # TODO: add special n best ranking
             for ii, search in enumerate(searches):
                 all_hyps[int(sample['id'].data[ii])] = []
                 best_sents = torch.stack([node[1].sequence[1:].cpu() for node in search.get_n_best(args.nbest)])
