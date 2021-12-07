@@ -1,0 +1,1000 @@
+0
+0.1	J that<w> vo ver vo sav /
+0.2	J that<w> vo ver vo sav /
+0.3	J that<w> vo ver vo sav /
+0.4	J that<w> vo ver vo sav /
+1
+1.1	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+1.2	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+1.3	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+1.4	? tr ‽ ‽ ‽ ‽ ⊂ tr on the boys<w> go<w> tr on the boys<w> go<w> tr on the ir<w> /
+2
+2.1	taxi<w> tr the leil<w> tr the ir<w> tr
+2.2	taxi<w> tr the leil<w> tr the ir<w> tr
+2.3	taxi<w> tr the leil<w> tr the ir<w> tr
+2.4	taxi<w> tr the leil<w> tr the ir<w> tr
+3
+3.1	taxi<w> is at vo the J that<w> at /
+3.2	taxi<w> is at vo the J that<w> at /
+3.3	taxi<w> is at vo the J that<w> at /
+3.4	taxi<w> is at vo the J that<w> at /
+4
+4.1	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+4.2	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+4.3	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+4.4	taxi<w> is eba<w> afr go<w> tr the ir<w> /
+5
+5.1	J $
+5.2	J $
+5.3	J $
+5.4	J $
+6
+6.1	on the afr ici<w> the afr go<w> tr the afr /
+6.2	on the afr ici<w> the afr go<w> tr the afr /
+6.3	on the afr ici<w> the afr go<w> tr the afr /
+6.4	on the afr ici<w> the afr go<w> tr the afr /
+7
+7.1	taxi<w> @
+7.2	taxi<w> @
+7.3	J that<w> at @
+7.4	J that<w> at @
+8
+8.1	J ver vo ver go<w>
+8.2	J ver vo ver go<w>
+8.3	J ver vo ver go<w>
+8.4	J ver vo ver vo ver vo the veillé<w> /
+9
+9.1	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+9.2	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+9.3	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+9.4	on at go<w> tr - tr the ir<w> ; - tr the ir<w> ici<w> the ir<w> ; - tr the ir<w> tr the ir<w> ; - tr the ir<w> tr 0 tr
+10
+10.1	J seen<w> sav /
+10.2	J seen<w> sav /
+10.3	J seen<w> sav /
+10.4	J seen<w> sav /
+11
+11.1	taxi<w> tr at @
+11.2	taxi<w> tr at @
+11.3	taxi<w> is at @
+11.4	taxi<w> tr at @ ? 0 ? ? ? ? ? 0 ? @ ? W 0 ? ? ? - tr tr 0 ? ? 0 ? ; 0 ? 0 ? ; . 0 ? 0 ? ; ‽ $
+12
+12.1	taxi<w> is on at - tr the ir<w> /
+12.2	taxi<w> is on at - tr the ir<w> /
+12.3	taxi<w> is on at - tr the ir<w> /
+12.4	taxi<w> is on at - tr the ir<w> /
+13
+13.1	at is at vo the man /
+13.2	at is at vo the man /
+13.3	at is at vo the man /
+13.4	at is at vo the man /
+14
+14.1	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+14.2	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+14.3	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+14.4	& us<w> ? ‽ ‽ go<w> on the leil<w> -
+15
+15.1	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+15.2	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+15.3	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+15.4	J - ans<w> at go<w> tr manger<w> afr - go<w> tr manger<w>
+16
+16.1	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+16.2	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+16.3	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+16.4	ver go<w> the man ici<w> the afr go<w> tr on b Dé ici<w> the afr ici<w> the afr go<w> J that<w> /
+17
+17.1	sav /
+17.2	sav /
+17.3	taxi<w> /
+17.4	taxi<w> /
+18
+18.1	at tr ‽ ‽ ‽ /
+18.2	at tr ‽ ‽ ‽ /
+18.3	at tr ‽ ‽ ‽ /
+18.4	at tr ‽ ‽ ‽ /
+19
+19.1	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+19.2	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+19.3	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+19.4	on tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr ‽ ici<w> 0 tr tr ‽ - tr the ir<w> tr the boys<w> - tr the ir<w> tr the ir<w> tr ‽ /
+20
+20.1	@
+20.2	@
+20.3	@
+20.4	@
+21
+21.1	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+21.2	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+21.3	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+21.4	on tr tr tr tr tr any go<w> J ver aque<w> ici<w>
+22
+22.1	/
+22.2	on /
+22.3	on /
+22.4	ver /
+23
+23.1	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+23.2	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+23.3	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+23.4	on the ir<w> ici<w> the afr go<w> J ver vo ver vo ver /
+24
+24.1	on /
+24.2	on /
+24.3	on /
+24.4	on /
+25
+25.1	on at - importe<w> tr at /
+25.2	on at - importe<w> tr at /
+25.3	on at - importe<w> at - J that<w> at /
+25.4	on at - importe<w> at - J that<w> at /
+26
+26.1	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+26.2	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+26.3	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+26.4	on the ? 0 tr tr tr tr tr tr tr tr tr tr tr on the boys<w> go<w> tr on the boys<w> tr the ir<w> ici<w> the boys<w> tr manger<w> afr /
+27
+27.1	plus<w> tr the thought<w> tr manger<w> ree<w> /
+27.2	plus<w> tr the thought<w> tr manger<w> ree<w> /
+27.3	plus<w> tr the thought<w> tr manger<w> ree<w> /
+27.4	plus<w> tr the thought<w> tr manger<w> ree<w> /
+28
+28.1	J $
+28.2	J $
+28.3	J $ ? ‽ ‽ - tr J that<w> tr at - tr at - tr at tr the ir<w> ; the boys<w> $
+28.4	J $ ? ‽ ‽ - tr J that<w> tr at - tr at - tr at tr the ir<w> ; the boys<w> $
+29
+29.1	on @
+29.2	on @
+29.3	on @
+29.4	on @
+30
+30.1	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+30.2	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+30.3	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+30.4	at is on the boys<w> go<w> tr the afr ici<w> the boys<w> go<w> tr the afr - tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> $
+31
+31.1	J that<w> on the leil<w> tr the afr /
+31.2	J that<w> on the leil<w> tr the afr /
+31.3	J that<w> on the leil<w> tr the afr /
+31.4	J that<w> on the leil<w> tr the afr /
+32
+32.1	@
+32.2	taxi<w> @
+32.3	taxi<w> @
+32.4	taxi<w> @
+33
+33.1	go<w> at @ @ 9 )
+33.2	go<w> at @ @ 9 )
+33.3	go<w> at @ @ 9 )
+33.4	go<w> at @ @ 9 ​ 0 J that<w> on the stand<w> go<w>
+34
+34.1	on tr tr tr tr the thought<w> /
+34.2	on tr tr tr tr the thought<w> /
+34.3	on tr tr tr tr the thought<w> /
+34.4	on tr tr tr tr the thought<w> /
+35
+35.1	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+35.2	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+35.3	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+35.4	taxi<w> tr the boys<w> go<w> tr the ir<w> ici<w> the boys<w> - tr the ir<w> tr the ir<w> ; the afr ici<w> the afr /
+36
+36.1	on @
+36.2	on @
+36.3	on @
+36.4	on @
+37
+37.1	at @
+37.2	at @
+37.3	at @
+37.4	at @
+38
+38.1	@
+38.2	taxi<w> @
+38.3	taxi<w> @
+38.4	taxi<w> - J that<w> at $
+39
+39.1	on tr tr tr tr the man go<w> tr the ir<w> @
+39.2	on tr tr tr tr the man go<w> tr the ir<w> @
+39.3	on tr tr tr tr the man go<w> tr the ir<w> @
+39.4	on tr tr tr tr the man go<w> tr the ir<w> @
+40
+40.1	@
+40.2	@
+40.3	taxi<w> @
+40.4	taxi<w> @
+41
+41.1	on tr tr tr the boys<w> .
+41.2	on tr tr tr the boys<w> .
+41.3	on tr tr tr the boys<w> .
+41.4	on tr tr tr the boys<w> .
+42
+42.1	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+42.2	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+42.3	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+42.4	on tr tr tr tr tr tr tr tr tr tres<w> - tr tr tres<w> tr the stand<w>
+43
+43.1	J cher I ici<w> tr tr tr tr tr on the man /
+43.2	J cher I ici<w> tr tr tr tr tr on the man /
+43.3	J cher I ici<w> tr tr tr tr tr on the man /
+43.4	J cher I ici<w> tr tr tr tr tr on the man /
+44
+44.1	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+44.2	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+44.3	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+44.4	on tr tr the leil<w> - on tr on the boys<w> - tr J ver vo the ir<w> - tr b ir<w> /
+45
+45.1	h<w> ? ‽ ‽ ; ; ? tr ‽ $
+45.2	h<w> ? ‽ ‽ ; ; ? tr ‽ $
+45.3	h<w> ? ‽ ‽ ; ; ? tr ‽ ; ?
+45.4	h<w> ? ‽ ‽ ; ; ? tr ‽ ; ?
+46
+46.1	on /
+46.2	J ver vo the boys<w> tr the boys<w> @
+46.3	J ver vo the boys<w> tr the boys<w> @
+46.4	J ver vo the boys<w> tr the boys<w> @
+47
+47.1	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+47.2	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+47.3	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+47.4	on tr the afr ici<w> the afr go<w> tr the ? 0 ‽ ‽ ‽ ‽ ‽ ‽ $
+48
+48.1	ver /
+48.2	ver /
+48.3	afr /
+48.4	afr /
+49
+49.1	at is @
+49.2	at is @
+49.3	taxi<w> @ tr tr @ @ 9 ​ -
+49.4	taxi<w> @ tr tr @ @ 9 ​ -
+50
+50.1	J that<w> vo ver vo the vin<w> @
+50.2	J that<w> vo ver vo the vin<w> @
+50.3	J that<w> vo ver vo the vin<w> @
+50.4	J that<w> vo ver vo the vin<w> @
+51
+51.1	tres<w> is on the ir<w> on the ir<w> /
+51.2	tres<w> is on the ir<w> on the ir<w> /
+51.3	tres<w> is on the ir<w> on the ir<w> /
+51.4	tres<w> is on the ir<w> on the ir<w> /
+52
+52.1	taxi<w> tr at .
+52.2	taxi<w> tr at .
+52.3	taxi<w> tr at $
+52.4	taxi<w> tr at ? 0 J that<w> go<w> at ici<w> the ir<w> ici<w> the ir<w> @
+53
+53.1	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+53.2	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+53.3	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+53.4	on the trou go<w> tr tr tr tr tr tr tr tr - tr the ? 0 ? - tr tr ‽ - tr J tr - tr J tr -
+54
+54.1	taxi<w> is at tr J that<w> tr at /
+54.2	taxi<w> is at tr J that<w> tr at /
+54.3	taxi<w> is at tr J that<w> tr at /
+54.4	taxi<w> is at tr J that<w> tr at /
+55
+55.1	/
+55.2	J ears<w> vo ver vo ver /
+55.3	J ears<w> vo ver vo ver /
+55.4	J ears<w> vo ver vo ver vo the vin<w> go<w>
+56
+56.1	taxi<w> is at @
+56.2	taxi<w> is at @
+56.3	taxi<w> is at /
+56.4	taxi<w> is at - importe<w> at is @
+57
+57.1	at is @
+57.2	at is @
+57.3	at is @
+57.4	at is @
+58
+58.1	on the trou tr tr the tr J that<w> tr the thought<w> /
+58.2	on the trou tr tr the tr J that<w> tr the thought<w> /
+58.3	on the trou tr tr the tr J that<w> tr the thought<w> /
+58.4	on the trou tr tr the tr J that<w> tr the thought<w> /
+59
+59.1	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+59.2	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+59.3	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+59.4	on the man go<w> tr J that<w> go<w> of<w> the ir<w> /
+60
+60.1	J that<w> tr 0 ; - tr on the boys<w> $
+60.2	J that<w> tr 0 ; - tr on the boys<w> $
+60.3	J that<w> tr 0 ; - tr on the boys<w> $
+60.4	J that<w> tr 0 ; - tr on the boys<w> $
+61
+61.1	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+61.2	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+61.3	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+61.4	on the boys<w> go<w> tr on the ir<w> ici<w> the ir<w> go<w> tr the ir<w> ici<w>
+62
+62.1	at tr tr I ? 0 ? 0 ? ; ‽ $
+62.2	at tr tr I ? 0 ? 0 ? ; ‽ $
+62.3	at tr tr I ? 0 ? 0 ? ; ‽ $
+62.4	at tr tr I ? 0 ? 0 ? ; ‽ $
+63
+63.1	ver go<w> J ver on the boys<w> tr the afr /
+63.2	ver go<w> J ver on the boys<w> tr the afr /
+63.3	ver go<w> J ver on the boys<w> tr the afr /
+63.4	ver go<w> J ver on the boys<w> tr the afr /
+64
+64.1	tres<w> is on the man ici<w> the ir<w> /
+64.2	tres<w> is on the man ici<w> the ir<w> /
+64.3	tres<w> is on the man ici<w> the ir<w> /
+64.4	tres<w> is on the man ici<w> the ir<w> /
+65
+65.1	J $
+65.2	at is ; 0 tr on the boys<w> go<w> tr the thought<w> /
+65.3	at is ; 0 tr on the boys<w> go<w> tr the thought<w> /
+65.4	at is ; 0 tr on the boys<w> go<w> tr the thought<w> /
+66
+66.1	on @
+66.2	on @
+66.3	on @
+66.4	on @
+67
+67.1	taxi<w> @
+67.2	taxi<w> @
+67.3	taxi<w> @
+67.4	taxi<w> @
+68
+68.1	@ J @
+68.2	@ J @
+68.3	@ J @
+68.4	@ J @
+69
+69.1	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+69.2	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+69.3	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+69.4	on at ici<w> the boys<w> go<w> tr the boys<w> go<w> tr the ir<w> ici<w> tr tr J that<w> /
+70
+70.1	@
+70.2	on @
+70.3	on @
+70.4	at @
+71
+71.1	is at @
+71.2	ho at @
+71.3	ho at @
+71.4	ho at @
+72
+72.1	@
+72.2	@
+72.3	@ ? ed<w> ing<w> ) 9 ; ‽ ⊂ ; ? è ; . 0
+72.4	@ ? ed<w> ing<w> ) 9 ; ‽ ⊂ ; ? è ; . 0
+73
+73.1	J cher any<w> at @
+73.2	J cher any<w> at @
+73.3	J cher any<w> at @
+73.4	J cher any<w> at @
+74
+74.1	on tr tr tr tr J that<w> tr - J that<w> tr at $
+74.2	on tr tr tr tr J that<w> tr - J that<w> tr at $
+74.3	on tr tr tr tr J that<w> tr - J that<w> tr at $
+74.4	on tr tr tr tr J that<w> tr - J that<w> tr at $
+75
+75.1	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+75.2	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+75.3	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+75.4	on tr tr tr tr - tr tr 0 tr J tr ver ; on the ; go<w> J ver vo the ir<w> go<w> on the boys<w> /
+76
+76.1	on tr tr tr 0 tr /
+76.2	on tr tr tr 0 tr /
+76.3	on tr tr tr 0 tr /
+76.4	on tr tr tr 0 tr /
+77
+77.1	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+77.2	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+77.3	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+77.4	taxi<w> is at on the boys<w> go<w> tr the boys<w> tr the ir<w> /
+78
+78.1	manger<w> afr /
+78.2	manger<w> afr /
+78.3	manger<w> afr /
+78.4	manger<w> afr /
+79
+79.1	taxi<w> /
+79.2	taxi<w> /
+79.3	taxi<w> go<w> nei ver /
+79.4	taxi<w> go<w> nei ver /
+80
+80.1	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+80.2	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+80.3	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+80.4	on the tr tr the tr J seen<w> go<w> on the leil<w> /
+81
+81.1	taxi<w> is at qu
+81.2	taxi<w> is at qu
+81.3	taxi<w> is at for sav $
+81.4	taxi<w> is at for sav $
+82
+82.1	J @ @ - importe<w> at @
+82.2	J @ @ - importe<w> at @
+82.3	J @ @ - importe<w> at @
+82.4	J @ @ - importe<w> at @
+83
+83.1	on at @
+83.2	on at @
+83.3	go<w> any<w> at @
+83.4	go<w> any<w> at @
+84
+84.1	at is on the thought<w> /
+84.2	at is on the thought<w> /
+84.3	at is on the thought<w> /
+84.4	at is on the thought<w> /
+85
+85.1	at ears<w> on the boys<w> go<w> on the boys<w> /
+85.2	at ears<w> on the boys<w> go<w> on the boys<w> /
+85.3	at ears<w> on the boys<w> go<w> on the boys<w> /
+85.4	at ears<w> on the boys<w> go<w> on the boys<w> /
+86
+86.1	on the tr tr tr tr on the thought<w> /
+86.2	on the tr tr tr tr on the thought<w> /
+86.3	on the tr tr tr tr on the thought<w> /
+86.4	on the tr tr tr tr on the thought<w> /
+87
+87.1	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+87.2	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+87.3	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+87.4	les tr tr tr tr tr ? ? ? ? ? ; . 0 ? ? -
+88
+88.1	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+88.2	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+88.3	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+88.4	on the man go<w> tr the ir<w> go<w> tr the ir<w> ici<w> the ir<w> tr ‽ /
+89
+89.1	of<w> the stand<w> /
+89.2	of<w> the stand<w> /
+89.3	on the stand<w> go<w> J ver vo the stand<w> /
+89.4	on the stand<w> go<w> J ver vo the stand<w> /
+90
+90.1	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+90.2	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+90.3	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+90.4	at is on the afr ici<w> the afr ici<w> the afr go<w> tr the ir<w> ici<w> the ir<w> /
+91
+91.1	manger<w> afr tr
+91.2	manger<w> afr tr
+91.3	manger<w> afr tr
+91.4	manger<w> afr tr
+92
+92.1	ent ici<w> the man go<w> tr at /
+92.2	ent ici<w> the man go<w> tr at /
+92.3	ent ici<w> the man go<w> tr at $
+92.4	ent ici<w> the man go<w> tr at $
+93
+93.1	at is @ - importe<w> on the leil<w> @
+93.2	at is @ - importe<w> on the leil<w> @
+93.3	at is @ - importe<w> on the leil<w> @
+93.4	at is @ - importe<w> on the leil<w> @
+94
+94.1	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+94.2	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+94.3	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+94.4	on the boys<w> go<w> tr ? 0 tr tr ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽
+95
+95.1	at is $
+95.2	at is $
+95.3	at tr ; ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ go<w> tr J go<w> tr any ici<w> the afr go<w> tr ‽ ‽ /
+95.4	at tr ; ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ ‽ go<w> tr J go<w> tr any ici<w> the afr go<w> tr ‽ ‽ /
+96
+96.1	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+96.2	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+96.3	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+96.4	on the ir<w> on the boys<w> go<w> tr the thought<w> tr the thought<w> tr on the boys<w> /
+97
+97.1	J seen<w> sav go<w> at /
+97.2	J seen<w> sav go<w> at /
+97.3	J seen<w> sav go<w> at /
+97.4	J seen<w> sav go<w> at /
+98
+98.1	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+98.2	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+98.3	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+98.4	on at go<w> tr 0 tr tr tr the ? 0 ? 0 tr tr on the boys<w> - tr J that<w> go<w> on the boys<w> $
+99
+99.1	at is $
+99.2	at is $
+99.3	at is $
+99.4	at is $
+100
+100.1	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+100.2	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+100.3	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+100.4	on the man ici<w> b bi go<w> J ver vo the boulot<w> /
+101
+101.1	any<w> @ at @
+101.2	taxi<w> @ at @
+101.3	taxi<w> @ at @
+101.4	taxi<w> @ at @
+102
+102.1	taxi<w> tr the man /
+102.2	taxi<w> tr the man /
+102.3	taxi<w> is on at /
+102.4	taxi<w> tr the man ici<w> the afr /
+103
+103.1	on at @
+103.2	on at @
+103.3	taxi<w> tr at @
+103.4	taxi<w> tr at @
+104
+104.1	at tr ‽ ‽ $
+104.2	at tr ‽ ‽ $
+104.3	at tr ‽ ‽ $
+104.4	at tr ‽ ‽ $
+105
+105.1	ap<w> /
+105.2	ap<w> /
+105.3	on at /
+105.4	on at /
+106
+106.1	afr /
+106.2	h<w> afr $
+106.3	h<w> afr $
+106.4	h<w> afr $
+107
+107.1	on /
+107.2	on /
+107.3	at /
+107.4	at /
+108
+108.1	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+108.2	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+108.3	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+108.4	ez<w> tr go<w> tr J tr the man go<w> tr tr tr J that<w> tr on manger<w> afr - tr J that<w> tr manger<w> afr - tr J that<w> go<w> at ; on the ir<w> $
+109
+109.1	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+109.2	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+109.3	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+109.4	cher any<w> any<w> any bi @ - importe<w> on the man go<w>
+110
+110.1	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+110.2	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+110.3	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+110.4	on tr tr tr tr the boys<w> - tr J that<w> tr the boys<w> $
+111
+111.1	qu @
+111.2	qu @
+111.3	qu @
+111.4	qu @
+112
+112.1	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+112.2	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+112.3	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+112.4	is at on b bi ici<w> the leil<w> tr ‽ ‽ - tr at @
+113
+113.1	on @
+113.2	on @
+113.3	on @
+113.4	on @
+114
+114.1	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+114.2	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+114.3	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+114.4	on @ @ tr the f @ tr ‽ ‽ - tr J that<w> on the boys<w> @
+115
+115.1	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+115.2	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+115.3	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+115.4	on tr tr tr tr tr tr tr - tr J 5 - tr J that<w> tr the ir<w> ; -
+116
+116.1	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+116.2	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+116.3	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+116.4	ter<w> ? ‽ ‽ ‽ ⊂ J that<w> go<w> ver /
+117
+117.1	taxi<w> ho
+117.2	taxi<w> ho
+117.3	taxi<w> ho
+117.4	taxi<w> ho
+118
+118.1	on /
+118.2	on /
+118.3	J ver /
+118.4	J ver /
+119
+119.1	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+119.2	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+119.3	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+119.4	on the tr tr tr tr tr on b Dé ici<w> the ir<w> /
+120
+120.1	taxi<w> @
+120.2	taxi<w> @
+120.3	taxi<w> @ at @
+120.4	taxi<w> @ at @
+121
+121.1	J $
+121.2	J $
+121.3	at is $
+121.4	at is $
+122
+122.1	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+122.2	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+122.3	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+122.4	taxi<w> is @ @ go<w> on the thought<w> go<w> J that<w> /
+123
+123.1	J that<w> at on the boys<w> ?
+123.2	J that<w> at on the boys<w> ?
+123.3	J that<w> at on the boys<w> ?
+123.4	J that<w> at on the boys<w> ?
+124
+124.1	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+124.2	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+124.3	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+124.4	on the man go<w> J tr the trou tr tr tr tr b bi go<w> J that<w> manger<w> afr /
+125
+125.1	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+125.2	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+125.3	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+125.4	at @ - on the trou @ go<w> tr on the leil<w> - tr the on the leil<w> - tr at on the leil<w> /
+126
+126.1	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+126.2	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+126.3	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+126.4	ver go<w> on the boys<w> go<w> tr the ir<w> on the ir<w> on b filles<w> go<w>
+127
+127.1	taxi<w> @
+127.2	taxi<w> @
+127.3	on @
+127.4	on @
+128
+128.1	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+128.2	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+128.3	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+128.4	on tr tr tr tr - tr tr 0 tr - tr J ver go<w> ; on the afr - tr J go<w> ver go<w> on the ir<w> /
+129
+129.1	on tr @
+129.2	on tr @
+129.3	on tr at /
+129.4	on tr tr tr tr tr tr tr of<w> the ir<w> /
+130
+130.1	manger<w> afr tr the ir<w> /
+130.2	manger<w> afr tr the ir<w> /
+130.3	manger<w> afr tr the ir<w> /
+130.4	manger<w> afr tr the ir<w> /
+131
+131.1	J $
+131.2	J $
+131.3	J $ ? 0 J ver -
+131.4	J $ ? 0 J ver -
+132
+132.1	on @
+132.2	on @
+132.3	on @
+132.4	on @
+133
+133.1	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+133.2	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+133.3	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+133.4	J that<w> tr 0 ; ? 0 ? ver go<w> 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ? 0 ?
+134
+134.1	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+134.2	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+134.3	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+134.4	taxi<w> is the stupide<w> ici<w> the afr ici<w> the boys<w> - tr the ir<w> $
+135
+135.1	/
+135.2	on /
+135.3	on go<w> J ver on the boys<w> -
+135.4	on go<w> J ver on the boys<w> -
+136
+136.1	$
+136.2	taxi<w> $
+136.3	tr tr tr the ; . ‽ ; tr tr tr ; .
+136.4	tr tr tr the ; . ‽ ; tr tr tr ; .
+137
+137.1	taxi<w> @ at @
+137.2	taxi<w> @ at @
+137.3	go<w> at @ @ 9 ​ 0 J that<w> go<w> at on manger<w> afr /
+137.4	go<w> at @ @ 9 ​ 0 J that<w> go<w> at on manger<w> afr /
+138
+138.1	J that<w> vo nei sav /
+138.2	J that<w> vo nei sav /
+138.3	J that<w> vo nei sav /
+138.4	J that<w> vo nei sav /
+139
+139.1	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+139.2	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+139.3	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+139.4	taxi<w> is the leil<w> tr tr - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> - J that<w> go<w> at $
+140
+140.1	taxi<w> /
+140.2	is at /
+140.3	is at /
+140.4	taxi<w> is at $
+141
+141.1	sav is the ir<w> on the afr /
+141.2	sav is the ir<w> on the afr /
+141.3	sav is the ir<w> on the afr /
+141.4	sav is the ir<w> on the afr /
+142
+142.1	at is on the ir<w> /
+142.2	at is on the ir<w> @
+142.3	at is on the ir<w> @
+142.4	at is on the ir<w> on tr tr tr tr tr the afr /
+143
+143.1	on the afr /
+143.2	on the afr /
+143.3	on the afr /
+143.4	on the afr /
+144
+144.1	taxi<w> is @ at @
+144.2	taxi<w> at @ at @
+144.3	taxi<w> at @ at @
+144.4	taxi<w> is @ @ 9 ​
+145
+145.1	at is b Dé ici<w> sav /
+145.2	at is b Dé ici<w> sav /
+145.3	at is b Dé ici<w> sav /
+145.4	at is b Dé ici<w> sav /
+146
+146.1	taxi<w> @
+146.2	taxi<w> @
+146.3	taxi<w> - J that<w> at on the boys<w> - tr tr manger<w> afr -
+146.4	taxi<w> - J that<w> at on the boys<w> - tr tr manger<w> afr -
+147
+147.1	on at $
+147.2	on at $
+147.3	on the ir<w> /
+147.4	on the ir<w> /
+148
+148.1	on at @
+148.2	on at @
+148.3	is at @
+148.4	is at @
+149
+149.1	tres<w> is b filles<w> ici<w> the afr /
+149.2	tres<w> is b filles<w> ici<w> the afr /
+149.3	tres<w> is b filles<w> ici<w> the afr /
+149.4	tres<w> is b filles<w> ici<w> the afr /
+150
+150.1	at is /
+150.2	at is /
+150.3	at is /
+150.4	at is /
+151
+151.1	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+151.2	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+151.3	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+151.4	on tr manger<w> boys<w> - tr on the thought<w> tr the thought<w> /
+152
+152.1	at is $
+152.2	at is $
+152.3	at is $
+152.4	on manger<w> boys<w> go<w> tr the ir<w> ici<w> the boys<w> go<w> tr the boys<w> go<w> tr manger<w> boys<w> /
+153
+153.1	J cher any<w> at /
+153.2	J cher any<w> at /
+153.3	J cher any<w> at /
+153.4	J cher any<w> at /
+154
+154.1	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+154.2	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+154.3	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+154.4	manger<w> Oh<w> go<w> J that<w> manger<w> afr go<w> manger<w> -
+155
+155.1	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+155.2	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+155.3	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+155.4	J that<w> on the trou tr tr the leil<w> tr the leil<w> tr tr tr on the boys<w> - tr tr manger<w> afr - tr at /
+156
+156.1	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+156.2	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+156.3	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+156.4	on the afr go<w> tr tr the ? 0 J that<w> on the boys<w> go<w> $
+157
+157.1	J @ at @
+157.2	J @ at @
+157.3	J @ at @
+157.4	J @ at @
+158
+158.1	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+158.2	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+158.3	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+158.4	J ver vo the ir<w> go<w> on the afr ici<w> the afr - tr the ir<w> go<w> tr the ir<w> ; on manger<w> boys<w> $
+159
+159.1	at is the man go<w> ?
+159.2	at is the man go<w> ?
+159.3	at is the man go<w> ?
+159.4	at is the man go<w> ?
+160
+160.1	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+160.2	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+160.3	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+160.4	on the boys<w> tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr tr the afr - tr tr the ir<w> /
+161
+161.1	on /
+161.2	on /
+161.3	J ver on the boys<w> - tr tr the boys<w> - tr tr manger<w> boys<w> $
+161.4	J ver on the boys<w> - tr tr the boys<w> - tr tr manger<w> boys<w> $
+162
+162.1	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+162.2	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+162.3	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+162.4	on the trou ici<w> the boys<w> go<w> tr on the afr go<w> tr the thought<w> tr the ir<w> ici<w> the afr /
+163
+163.1	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+163.2	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+163.3	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+163.4	on at go<w> J tr the boys<w> tr on the boys<w> go<w> on the boys<w> /
+164
+164.1	manger<w> afr /
+164.2	manger<w> afr /
+164.3	manger<w> afr go<w> J any<w> /
+164.4	manger<w> afr go<w> J any<w> /
+165
+165.1	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+165.2	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+165.3	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+165.4	on tr tr tr tr tr J that<w> go<w> tr the boys<w> go<w> tr
+166
+166.1	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+166.2	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+166.3	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+166.4	on the ici<w> ? 0 ? ‽ ‽ ; ? ‽ ‽ ; ? ‽ ‽ ? 0 ? ? ? ? ? ? ? - tr the thought<w> go<w> ? 0 ? ? ? ? J seen<w>
+167
+167.1	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+167.2	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+167.3	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+167.4	on the tr tr tr tr tr tr tr tr tr tr tr on the leil<w> go<w> tr on the ir<w> ici<w> the ir<w> on the ir<w> /
+168
+168.1	on go<w> any<w> ‽ ‽ /
+168.2	on go<w> any<w> ‽ ‽ /
+168.3	on go<w> any<w> ‽ on b boys<w> /
+168.4	on go<w> any<w> ‽ on b boys<w> /
+169
+169.1	/
+169.2	is at - importe<w> at go<w> tres<w> is go<w> for the ir<w> /
+169.3	is at - importe<w> at go<w> tres<w> is go<w> for the ir<w> /
+169.4	is at - importe<w> at go<w> tres<w> is go<w> for the ir<w> /
+170
+170.1	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+170.2	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+170.3	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+170.4	on at ici<w> the afr ici<w> the afr go<w> J ver go<w>
+171
+171.1	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+171.2	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+171.3	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+171.4	at is ; 0 ‽ ici<w> ; on the afr ici<w> the afr ici<w> the afr /
+172
+172.1	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+172.2	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+172.3	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+172.4	on the boys<w> ? 0 tr tr tr the boys<w> - tr the ir<w> ; the ir<w> ; .
+173
+173.1	any<w> @ at @
+173.2	any<w> @ at @
+173.3	taxi<w> @ at @
+173.4	taxi<w> @ at @
+174
+174.1	any<w> @ at @
+174.2	taxi<w> @ at @
+174.3	taxi<w> @ at @
+174.4	taxi<w> @ at @
+175
+175.1	tres<w> is b bi ici<w> the thought<w> /
+175.2	tres<w> is b bi ici<w> the thought<w> /
+175.3	tres<w> is b bi ici<w> the leil<w> /
+175.4	tres<w> is b bi ici<w> the leil<w> go<w> at /
+176
+176.1	taxi<w> - ans<w> at /
+176.2	taxi<w> - ans<w> at /
+176.3	taxi<w> - at is /
+176.4	taxi<w> - at is /
+177
+177.1	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+177.2	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+177.3	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+177.4	J ears<w> vo ver vo the ir<w> on manger<w> ir<w> go<w> on manger<w> afr /
+178
+178.1	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+178.2	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+178.3	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+178.4	on tr tr tr tr tr tr tr tr tr tr ‽ - tr the ir<w> tr J on the stand<w> - tr on manger<w> afr /
+179
+179.1	J that<w> tr at @
+179.2	J that<w> tr at @
+179.3	J that<w> tr at @
+179.4	J that<w> tr at @
+180
+180.1	on sav /
+180.2	on the man - go<w> the run<w> tr manger<w> -
+180.3	on the man - go<w> the run<w> tr manger<w> -
+180.4	on the man - go<w> the run<w> tr manger<w> -
+181
+181.1	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+181.2	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+181.3	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+181.4	ver go<w> qu the boys<w> tr tr tr tr tr tr tr thought<w> go<w> J @
+182
+182.1	J ?
+182.2	J ?
+182.3	at is $
+182.4	at is ; .
+183
+183.1	taxi<w> $
+183.2	taxi<w> $
+183.3	taxi<w> /
+183.4	taxi<w> /
+184
+184.1	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+184.2	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+184.3	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+184.4	J ears<w> on the ir<w> ici<w> the ir<w> ici<w>
+185
+185.1	on tr at /
+185.2	on tr at /
+185.3	on the afr /
+185.4	on tr tr tr tr J that<w> tr tr tr tr à<w> go<w>
+186
+186.1	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+186.2	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+186.3	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+186.4	at is @ @ go<w> tr any go<w> tr manger<w> ) tr
+187
+187.1	tres<w> is on eba<w> boys<w> @
+187.2	tres<w> is on eba<w> boys<w> @
+187.3	tres<w> is on eba<w> boys<w> @
+187.4	tres<w> is on eba<w> boys<w> @
+188
+188.1	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+188.2	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+188.3	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+188.4	on go<w> tr tr tr - tr tr 0 tr tr ‽ $
+189
+189.1	at is $
+189.2	at is $
+189.3	at is $
+189.4	on tr tr tr J ver vo the ir<w> ; on the ir<w> /
+190
+190.1	$
+190.2	$
+190.3	$ ? ‽ ⊂ tr ‽ ‽ tr tr ‽ tr tr tr tr tr b , /
+190.4	$ ? ‽ ⊂ tr ‽ ‽ tr tr ‽ tr tr tr tr tr b , /
+191
+191.1	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+191.2	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+191.3	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+191.4	on tr tr - tr the tr the tr ‽ ‽ - tr the ir<w> ? 0 ? tr ‽ ; ‽ ; ‽ ; ‽ ? 0 ? J ver - tr at -
+192
+192.1	at is on the boys<w> tr the ir<w> /
+192.2	at is on the boys<w> tr the ir<w> /
+192.3	at is on the boys<w> tr the ir<w> /
+192.4	at is on the boys<w> tr the ir<w> /
+193
+193.1	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+193.2	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+193.3	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+193.4	J that<w> vo ver vo the vin<w> tr tr the ir<w> ; the ir<w> ici<w> the ir<w> $
+194
+194.1	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+194.2	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+194.3	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+194.4	world<w> go<w> qu the ir<w> ici<w> the afr ici<w> the ir<w> ici<w> the afr go<w> tr ‽ ‽ /
+195
+195.1	at is /
+195.2	at is /
+195.3	at is /
+195.4	taxi<w> is at /
+196
+196.1	on tr tr tr tr tr tr tr the boys<w> ; @
+196.2	on tr tr tr tr tr tr tr the boys<w> ; @
+196.3	on tr tr tr tr tr tr tr the boys<w> ; @
+196.4	on tr tr tr tr tr tr tr the boys<w> ; @
+197
+197.1	at is ‽ ‽ $
+197.2	at is ‽ ‽ - tr at /
+197.3	at is ‽ ‽ - tr at /
+197.4	at is ‽ ‽ - tr at /
+198
+198.1	afr /
+198.2	afr /
+198.3	man /
+198.4	b man - go<w> J dîner<w> at ver vo ver vo ver vo ver vo ver /
+199
+199.1	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
+199.2	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
+199.3	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /
+199.4	on the ici<w> ? 0 J seen<w> the man go<w> tr the boys<w> go<w> tr the boys<w> go<w> tr the stand<w> /

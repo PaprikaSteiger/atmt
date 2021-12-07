@@ -213,6 +213,7 @@ def main(args):
                                                                    next_word)), node.logp + log_p, node.length + 1
                         )
                         all_nodes_this_sent.append((-node.eval(), node))
+                # CHANGES
                 if args.nbest_ranked:
                     # adjust score with rank
                     sorted_nodes = sorted(all_nodes_this_sent, key=lambda n: n[0], reverse=True)
@@ -272,7 +273,7 @@ def main(args):
             for ii, sent in enumerate(output_sentences):
                 all_hyps[int(sample['id'].data[ii])] = sent
         else:
-            # TODO: add special n best ranking
+            # CHANGES
             for ii, search in enumerate(searches):
                 all_hyps[int(sample['id'].data[ii])] = []
                 best_sents = torch.stack([node[1].sequence[1:].cpu() for node in search.get_n_best(args.nbest)])
@@ -302,6 +303,7 @@ def main(args):
                 for sent_id in range(len(all_hyps.keys())):
                     out_file.write(all_hyps[sent_id] + '\n')
             else:
+                # CHANGES
                 for sent_id in range(len(all_hyps.keys())):
                     out_file.write(str(sent_id) + '\n')
                     for c, sent in enumerate(all_hyps[sent_id]):

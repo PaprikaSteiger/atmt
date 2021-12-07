@@ -126,9 +126,17 @@ def make_binary_dataset(input_file, output_file, dictionary, tokenize=word_token
 
 
 if __name__ == '__main__':
-    args = get_args()
-    if not args.quiet:
-        utils.init_logging(args)
-        logging.info('COMMAND: %s' % ' '.join(sys.argv))
-        logging.info('Arguments: {}'.format(vars(args)))
-    main(args)
+    # args = get_args()
+    # if not args.quiet:
+    #     utils.init_logging(args)
+    #     logging.info('COMMAND: %s' % ' '.join(sys.argv))
+    #     logging.info('Arguments: {}'.format(vars(args)))
+    # main(args)
+    make_binary_dataset("/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/preprocessed/test_short.fr",
+                        "/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/prepared/test_short.fr",
+                        Dictionary.load("/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/prepared/dict.fr"),
+                        )
+    make_binary_dataset("/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/preprocessed/test_short.en",
+                        "/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/prepared/test_short.en",
+                        Dictionary.load("/home/melvin/Desktop/mt-assignments/atmt/data/en-fr/prepared/dict.en"),
+                        )
